@@ -1,0 +1,2059 @@
+period,fueltypeid,fuelTypeDescription,generation,generation-units,year,month
+2025-06-01,SUN,solar,31611.39224,thousand megawatthours,2025,6
+2025-06-01,COL,"coal, excluding waste coal",63673.92079,thousand megawatthours,2025,6
+2025-06-01,ALL,all fuels,393048.6895,thousand megawatthours,2025,6
+2025-06-01,NUC,nuclear,66222.276,thousand megawatthours,2025,6
+2025-06-01,NG,natural gas,165109.94223,thousand megawatthours,2025,6
+2025-06-01,HYC,conventional hydroelectric,21974.60053,thousand megawatthours,2025,6
+2025-06-01,WND,wind,35851.35654,thousand megawatthours,2025,6
+2025-05-01,ALL,all fuels,343704.4575,thousand megawatthours,2025,5
+2025-05-01,WND,wind,36906.51258,thousand megawatthours,2025,5
+2025-05-01,SUN,solar,29596.1074,thousand megawatthours,2025,5
+2025-05-01,NUC,nuclear,62144.818,thousand megawatthours,2025,5
+2025-05-01,NG,natural gas,135168.70364,thousand megawatthours,2025,5
+2025-05-01,HYC,conventional hydroelectric,24033.56215,thousand megawatthours,2025,5
+2025-05-01,COL,"coal, excluding waste coal",48034.59615,thousand megawatthours,2025,5
+2025-04-01,ALL,all fuels,321347.27031,thousand megawatthours,2025,4
+2025-04-01,WND,wind,45731.48261,thousand megawatthours,2025,4
+2025-04-01,SUN,solar,26611.66153,thousand megawatthours,2025,4
+2025-04-01,NUC,nuclear,57892.519,thousand megawatthours,2025,4
+2025-04-01,NG,natural gas,115960.37535,thousand megawatthours,2025,4
+2025-04-01,HYC,conventional hydroelectric,22414.84826,thousand megawatthours,2025,4
+2025-04-01,COL,"coal, excluding waste coal",45107.83193,thousand megawatthours,2025,4
+2025-03-01,SUN,solar,23067.39819,thousand megawatthours,2025,3
+2025-03-01,NUC,nuclear,62456.661,thousand megawatthours,2025,3
+2025-03-01,NG,natural gas,118919.93448,thousand megawatthours,2025,3
+2025-03-01,HYC,conventional hydroelectric,22034.00596,thousand megawatthours,2025,3
+2025-03-01,COL,"coal, excluding waste coal",48428.31306,thousand megawatthours,2025,3
+2025-03-01,ALL,all fuels,333846.23016,thousand megawatthours,2025,3
+2025-03-01,WND,wind,50691.77463,thousand megawatthours,2025,3
+2025-02-01,ALL,all fuels,339147.9353,thousand megawatthours,2025,2
+2025-02-01,WND,wind,39420.00917,thousand megawatthours,2025,2
+2025-02-01,SUN,solar,16374.30422,thousand megawatthours,2025,2
+2025-02-01,NUC,nuclear,61828.502,thousand megawatthours,2025,2
+2025-02-01,NG,natural gas,132339.57223,thousand megawatthours,2025,2
+2025-02-01,HYC,conventional hydroelectric,19331.17353,thousand megawatthours,2025,2
+2025-02-01,COL,"coal, excluding waste coal",61474.67563,thousand megawatthours,2025,2
+2025-01-01,SUN,solar,15355.45712,thousand megawatthours,2025,1
+2025-01-01,NUC,nuclear,71738.938,thousand megawatthours,2025,1
+2025-01-01,NG,natural gas,156526.71341,thousand megawatthours,2025,1
+2025-01-01,HYC,conventional hydroelectric,21192.35254,thousand megawatthours,2025,1
+2025-01-01,COL,"coal, excluding waste coal",82560.87835,thousand megawatthours,2025,1
+2025-01-01,ALL,all fuels,401502.62962,thousand megawatthours,2025,1
+2025-01-01,WND,wind,43630.08115,thousand megawatthours,2025,1
+2024-12-01,NUC,nuclear,71200.098,thousand megawatthours,2024,12
+2024-12-01,NG,natural gas,145365.01275,thousand megawatthours,2024,12
+2024-12-01,HYC,conventional hydroelectric,20384.32831,thousand megawatthours,2024,12
+2024-12-01,COL,"coal, excluding waste coal",62330.60951,thousand megawatthours,2024,12
+2024-12-01,ALL,all fuels,361284.04473,thousand megawatthours,2024,12
+2024-12-01,WND,wind,40343.06835,thousand megawatthours,2024,12
+2024-12-01,SUN,solar,12942.0623,thousand megawatthours,2024,12
+2024-11-01,WND,wind,40960.54107,thousand megawatthours,2024,11
+2024-11-01,NG,natural gas,137041.41254,thousand megawatthours,2024,11
+2024-11-01,HYC,conventional hydroelectric,18275.92039,thousand megawatthours,2024,11
+2024-11-01,COL,"coal, excluding waste coal",44659.46487,thousand megawatthours,2024,11
+2024-11-01,ALL,all fuels,324140.91112,thousand megawatthours,2024,11
+2024-11-01,SUN,solar,13878.34018,thousand megawatthours,2024,11
+2024-11-01,NUC,nuclear,61904.051,thousand megawatthours,2024,11
+2024-10-01,ALL,all fuels,334119.15232,thousand megawatthours,2024,10
+2024-10-01,WND,wind,40053.82313,thousand megawatthours,2024,10
+2024-10-01,SUN,solar,19524.80836,thousand megawatthours,2024,10
+2024-10-01,NUC,nuclear,58773.349,thousand megawatthours,2024,10
+2024-10-01,NG,natural gas,146347.74525,thousand megawatthours,2024,10
+2024-10-01,HYC,conventional hydroelectric,15821.35795,thousand megawatthours,2024,10
+2024-10-01,COL,"coal, excluding waste coal",46549.24637,thousand megawatthours,2024,10
+2024-09-01,ALL,all fuels,359609.14705,thousand megawatthours,2024,9
+2024-09-01,WND,wind,28995.2059,thousand megawatthours,2024,9
+2024-09-01,SUN,solar,20263.85436,thousand megawatthours,2024,9
+2024-09-01,NUC,nuclear,62660.468,thousand megawatthours,2024,9
+2024-09-01,NG,natural gas,169393.44023,thousand megawatthours,2024,9
+2024-09-01,HYC,conventional hydroelectric,16665.75643,thousand megawatthours,2024,9
+2024-09-01,COL,"coal, excluding waste coal",54281.99454,thousand megawatthours,2024,9
+2024-08-01,SUN,solar,24055.33215,thousand megawatthours,2024,8
+2024-08-01,NUC,nuclear,69760.288,thousand megawatthours,2024,8
+2024-08-01,NG,natural gas,203074.90468,thousand megawatthours,2024,8
+2024-08-01,HYC,conventional hydroelectric,21364.13449,thousand megawatthours,2024,8
+2024-08-01,COL,"coal, excluding waste coal",68339.71167,thousand megawatthours,2024,8
+2024-08-01,ALL,all fuels,423536.49437,thousand megawatthours,2024,8
+2024-08-01,WND,wind,28763.96196,thousand megawatthours,2024,8
+2024-07-01,ALL,all fuels,430456.15612,thousand megawatthours,2024,7
+2024-07-01,WND,wind,27970.5392,thousand megawatthours,2024,7
+2024-07-01,SUN,solar,24200.47301,thousand megawatthours,2024,7
+2024-07-01,NUC,nuclear,69885.242,thousand megawatthours,2024,7
+2024-07-01,NG,natural gas,207717.35786,thousand megawatthours,2024,7
+2024-07-01,HYC,conventional hydroelectric,21187.54055,thousand megawatthours,2024,7
+2024-07-01,COL,"coal, excluding waste coal",70831.60498,thousand megawatthours,2024,7
+2024-06-01,COL,"coal, excluding waste coal",60687.99094,thousand megawatthours,2024,6
+2024-06-01,ALL,all fuels,390102.6162,thousand megawatthours,2024,6
+2024-06-01,WND,wind,38160.41225,thousand megawatthours,2024,6
+2024-06-01,SUN,solar,24293.63739,thousand megawatthours,2024,6
+2024-06-01,NUC,nuclear,68192.147,thousand megawatthours,2024,6
+2024-06-01,NG,natural gas,169307.07575,thousand megawatthours,2024,6
+2024-06-01,HYC,conventional hydroelectric,21171.60308,thousand megawatthours,2024,6
+2024-05-01,ALL,all fuels,345809.36837,thousand megawatthours,2024,5
+2024-05-01,WND,wind,38692.58505,thousand megawatthours,2024,5
+2024-05-01,SUN,solar,22209.11726,thousand megawatthours,2024,5
+2024-05-01,NUC,nuclear,64972.965,thousand megawatthours,2024,5
+2024-05-01,NG,natural gas,143617.82789,thousand megawatthours,2024,5
+2024-05-01,HYC,conventional hydroelectric,22616.8404,thousand megawatthours,2024,5
+2024-05-01,COL,"coal, excluding waste coal",45379.10854,thousand megawatthours,2024,5
+2024-04-01,ALL,all fuels,309334.54159,thousand megawatthours,2024,4
+2024-04-01,WND,wind,47380.86617,thousand megawatthours,2024,4
+2024-04-01,SUN,solar,19101.07696,thousand megawatthours,2024,4
+2024-04-01,NUC,nuclear,57621.498,thousand megawatthours,2024,4
+2024-04-01,NG,natural gas,121282.09818,thousand megawatthours,2024,4
+2024-04-01,HYC,conventional hydroelectric,19376.29594,thousand megawatthours,2024,4
+2024-04-01,COL,"coal, excluding waste coal",36620.82028,thousand megawatthours,2024,4
+2024-03-01,ALL,all fuels,324312.62866,thousand megawatthours,2024,3
+2024-03-01,WND,wind,45640.82098,thousand megawatthours,2024,3
+2024-03-01,SUN,solar,15840.33949,thousand megawatthours,2024,3
+2024-03-01,NUC,nuclear,63345.769,thousand megawatthours,2024,3
+2024-03-01,NG,natural gas,130604.32358,thousand megawatthours,2024,3
+2024-03-01,HYC,conventional hydroelectric,23320.64044,thousand megawatthours,2024,3
+2024-03-01,COL,"coal, excluding waste coal",37698.9842,thousand megawatthours,2024,3
+2024-02-01,HYC,conventional hydroelectric,20105.30611,thousand megawatthours,2024,2
+2024-02-01,WND,wind,41561.86978,thousand megawatthours,2024,2
+2024-02-01,SUN,solar,12489.1304,thousand megawatthours,2024,2
+2024-02-01,NUC,nuclear,64583.812,thousand megawatthours,2024,2
+2024-02-01,NG,natural gas,130987.10591,thousand megawatthours,2024,2
+2024-02-01,COL,"coal, excluding waste coal",43425.63584,thousand megawatthours,2024,2
+2024-02-01,ALL,all fuels,320899.19991,thousand megawatthours,2024,2
+2024-01-01,HYC,conventional hydroelectric,21936.00738,thousand megawatthours,2024,1
+2024-01-01,COL,"coal, excluding waste coal",74938.94397,thousand megawatthours,2024,1
+2024-01-01,ALL,all fuels,380434.45646,thousand megawatthours,2024,1
+2024-01-01,WND,wind,34930.45708,thousand megawatthours,2024,1
+2024-01-01,SUN,solar,9739.60357,thousand megawatthours,2024,1
+2024-01-01,NUC,nuclear,69079.735,thousand megawatthours,2024,1
+2024-01-01,NG,natural gas,160135.50524,thousand megawatthours,2024,1
+2023-12-01,NUC,nuclear,68854.346,thousand megawatthours,2023,12
+2023-12-01,NG,natural gas,149797.85244,thousand megawatthours,2023,12
+2023-12-01,HYC,conventional hydroelectric,19027.64919,thousand megawatthours,2023,12
+2023-12-01,COL,"coal, excluding waste coal",55597.08923,thousand megawatthours,2023,12
+2023-12-01,ALL,all fuels,349513.4603,thousand megawatthours,2023,12
+2023-12-01,WND,wind,38038.36307,thousand megawatthours,2023,12
+2023-12-01,SUN,solar,9112.50704,thousand megawatthours,2023,12
+2023-11-01,ALL,all fuels,320609.80918,thousand megawatthours,2023,11
+2023-11-01,WND,wind,36445.37672,thousand megawatthours,2023,11
+2023-11-01,SUN,solar,10446.11045,thousand megawatthours,2023,11
+2023-11-01,NUC,nuclear,62257.644,thousand megawatthours,2023,11
+2023-11-01,NG,natural gas,135357.71949,thousand megawatthours,2023,11
+2023-11-01,HYC,conventional hydroelectric,17025.68245,thousand megawatthours,2023,11
+2023-11-01,COL,"coal, excluding waste coal",50578.03306,thousand megawatthours,2023,11
+2023-10-01,SUN,solar,14120.71224,thousand megawatthours,2023,10
+2023-10-01,NUC,nuclear,61435.632,thousand megawatthours,2023,10
+2023-10-01,NG,natural gas,140654.67524,thousand megawatthours,2023,10
+2023-10-01,HYC,conventional hydroelectric,15672.55982,thousand megawatthours,2023,10
+2023-10-01,COL,"coal, excluding waste coal",50446.97111,thousand megawatthours,2023,10
+2023-10-01,ALL,all fuels,326549.47509,thousand megawatthours,2023,10
+2023-10-01,WND,wind,36019.86504,thousand megawatthours,2023,10
+2023-09-01,ALL,all fuels,360327.90586,thousand megawatthours,2023,9
+2023-09-01,WND,wind,28353.33067,thousand megawatthours,2023,9
+2023-09-01,SUN,solar,15582.82385,thousand megawatthours,2023,9
+2023-09-01,NUC,nuclear,65559.71,thousand megawatthours,2023,9
+2023-09-01,NG,natural gas,166150.87759,thousand megawatthours,2023,9
+2023-09-01,HYC,conventional hydroelectric,16915.72764,thousand megawatthours,2023,9
+2023-09-01,COL,"coal, excluding waste coal",59545.99745,thousand megawatthours,2023,9
+2023-08-01,ALL,all fuels,422681.77382,thousand megawatthours,2023,8
+2023-08-01,WND,wind,28394.17813,thousand megawatthours,2023,8
+2023-08-01,SUN,solar,17744.05054,thousand megawatthours,2023,8
+2023-08-01,NUC,nuclear,69744.023,thousand megawatthours,2023,8
+2023-08-01,NG,natural gas,198999.93491,thousand megawatthours,2023,8
+2023-08-01,HYC,conventional hydroelectric,21293.08687,thousand megawatthours,2023,8
+2023-08-01,COL,"coal, excluding waste coal",77366.75133,thousand megawatthours,2023,8
+2023-07-01,WND,wind,28004.56067,thousand megawatthours,2023,7
+2023-07-01,NG,natural gas,199288.8158,thousand megawatthours,2023,7
+2023-07-01,HYC,conventional hydroelectric,21977.73383,thousand megawatthours,2023,7
+2023-07-01,COL,"coal, excluding waste coal",78088.32775,thousand megawatthours,2023,7
+2023-07-01,SUN,solar,18894.31191,thousand megawatthours,2023,7
+2023-07-01,ALL,all fuels,425220.30159,thousand megawatthours,2023,7
+2023-07-01,NUC,nuclear,69887.588,thousand megawatthours,2023,7
+2023-06-01,ALL,all fuels,359101.31998,thousand megawatthours,2023,6
+2023-06-01,WND,wind,27546.97393,thousand megawatthours,2023,6
+2023-06-01,SUN,solar,17833.69949,thousand megawatthours,2023,6
+2023-06-01,NUC,nuclear,64819.195,thousand megawatthours,2023,6
+2023-06-01,NG,natural gas,161851.00512,thousand megawatthours,2023,6
+2023-06-01,HYC,conventional hydroelectric,21572.23898,thousand megawatthours,2023,6
+2023-06-01,COL,"coal, excluding waste coal",57193.6479,thousand megawatthours,2023,6
+2023-05-01,WND,wind,32227.18097,thousand megawatthours,2023,5
+2023-05-01,COL,"coal, excluding waste coal",43420.43589,thousand megawatthours,2023,5
+2023-05-01,ALL,all fuels,327373.6738,thousand megawatthours,2023,5
+2023-05-01,HYC,conventional hydroelectric,27651.29087,thousand megawatthours,2023,5
+2023-05-01,SUN,solar,17281.04775,thousand megawatthours,2023,5
+2023-05-01,NUC,nuclear,61155.193,thousand megawatthours,2023,5
+2023-05-01,NG,natural gas,137295.67838,thousand megawatthours,2023,5
+2023-04-01,ALL,all fuels,301767.66638,thousand megawatthours,2023,4
+2023-04-01,WND,wind,42745.50715,thousand megawatthours,2023,4
+2023-04-01,SUN,solar,15061.64053,thousand megawatthours,2023,4
+2023-04-01,NUC,nuclear,56662.458,thousand megawatthours,2023,4
+2023-04-01,NG,natural gas,119877.76442,thousand megawatthours,2023,4
+2023-04-01,HYC,conventional hydroelectric,19819.60825,thousand megawatthours,2023,4
+2023-04-01,COL,"coal, excluding waste coal",39727.69475,thousand megawatthours,2023,4
+2023-03-01,SUN,solar,12212.81238,thousand megawatthours,2023,3
+2023-03-01,NUC,nuclear,62820.443,thousand megawatthours,2023,3
+2023-03-01,NG,natural gas,133557.7022,thousand megawatthours,2023,3
+2023-03-01,HYC,conventional hydroelectric,21331.4014,thousand megawatthours,2023,3
+2023-03-01,COL,"coal, excluding waste coal",49476.14774,thousand megawatthours,2023,3
+2023-03-01,ALL,all fuels,331564.66133,thousand megawatthours,2023,3
+2023-03-01,WND,wind,43583.75311,thousand megawatthours,2023,3
+2023-02-01,SUN,solar,9434.58761,thousand megawatthours,2023,2
+2023-02-01,NUC,nuclear,60806.857,thousand megawatthours,2023,2
+2023-02-01,NG,natural gas,124891.94388,thousand megawatthours,2023,2
+2023-02-01,HYC,conventional hydroelectric,19961.14213,thousand megawatthours,2023,2
+2023-02-01,COL,"coal, excluding waste coal",45752.8839,thousand megawatthours,2023,2
+2023-02-01,ALL,all fuels,310776.22886,thousand megawatthours,2023,2
+2023-02-01,WND,wind,41424.26888,thousand megawatthours,2023,2
+2023-01-01,SUN,solar,7806.04484,thousand megawatthours,2023,1
+2023-01-01,NUC,nuclear,70870.08,thousand megawatthours,2023,1
+2023-01-01,NG,natural gas,138339.10302,thousand megawatthours,2023,1
+2023-01-01,HYC,conventional hydroelectric,22754.21698,thousand megawatthours,2023,1
+2023-01-01,COL,"coal, excluding waste coal",60851.83421,thousand megawatthours,2023,1
+2023-01-01,ALL,all fuels,347784.3961,thousand megawatthours,2023,1
+2023-01-01,WND,wind,38357.97689,thousand megawatthours,2023,1
+2022-12-01,SUN,solar,6777.13575,thousand megawatthours,2022,12
+2022-12-01,NUC,nuclear,69094.147,thousand megawatthours,2022,12
+2022-12-01,NG,natural gas,140715.95863,thousand megawatthours,2022,12
+2022-12-01,HYC,conventional hydroelectric,20429.54086,thousand megawatthours,2022,12
+2022-12-01,COL,"coal, excluding waste coal",72745.14093,thousand megawatthours,2022,12
+2022-12-01,ALL,all fuels,360257.03143,thousand megawatthours,2022,12
+2022-12-01,WND,wind,38679.53194,thousand megawatthours,2022,12
+2022-11-01,ALL,all fuels,321780.34697,thousand megawatthours,2022,11
+2022-11-01,WND,wind,41198.8465,thousand megawatthours,2022,11
+2022-11-01,SUN,solar,8402.51271,thousand megawatthours,2022,11
+2022-11-01,NUC,nuclear,62041.287,thousand megawatthours,2022,11
+2022-11-01,NG,natural gas,127523.43894,thousand megawatthours,2022,11
+2022-11-01,HYC,conventional hydroelectric,17898.14767,thousand megawatthours,2022,11
+2022-11-01,COL,"coal, excluding waste coal",55703.68131,thousand megawatthours,2022,11
+2022-10-01,ALL,all fuels,313948.99137,thousand megawatthours,2022,10
+2022-10-01,WND,wind,32744.63415,thousand megawatthours,2022,10
+2022-10-01,SUN,solar,11941.50155,thousand megawatthours,2022,10
+2022-10-01,NUC,nuclear,58945.383,thousand megawatthours,2022,10
+2022-10-01,NG,natural gas,133491.52385,thousand megawatthours,2022,10
+2022-10-01,HYC,conventional hydroelectric,14367.41841,thousand megawatthours,2022,10
+2022-10-01,COL,"coal, excluding waste coal",53600.1878,thousand megawatthours,2022,10
+2022-09-01,SUN,solar,13286.13522,thousand megawatthours,2022,9
+2022-09-01,NUC,nuclear,63733.186,thousand megawatthours,2022,9
+2022-09-01,NG,natural gas,156947.86255,thousand megawatthours,2022,9
+2022-09-01,HYC,conventional hydroelectric,17026.14725,thousand megawatthours,2022,9
+2022-09-01,COL,"coal, excluding waste coal",64382.89203,thousand megawatthours,2022,9
+2022-09-01,ALL,all fuels,351654.94444,thousand megawatthours,2022,9
+2022-09-01,WND,wind,27331.13356,thousand megawatthours,2022,9
+2022-08-01,ALL,all fuels,412133.19484,thousand megawatthours,2022,8
+2022-08-01,WND,wind,24718.4162,thousand megawatthours,2022,8
+2022-08-01,SUN,solar,14502.35057,thousand megawatthours,2022,8
+2022-08-01,NUC,nuclear,68896.917,thousand megawatthours,2022,8
+2022-08-01,NG,natural gas,188859.66884,thousand megawatthours,2022,8
+2022-08-01,HYC,conventional hydroelectric,21132.94901,thousand megawatthours,2022,8
+2022-08-01,COL,"coal, excluding waste coal",84491.5479,thousand megawatthours,2022,8
+2022-07-01,ALL,all fuels,422974.98247,thousand megawatthours,2022,7
+2022-07-01,WND,wind,29474.97824,thousand megawatthours,2022,7
+2022-07-01,SUN,solar,15765.47097,thousand megawatthours,2022,7
+2022-07-01,NUC,nuclear,68856.919,thousand megawatthours,2022,7
+2022-07-01,NG,natural gas,189042.19413,thousand megawatthours,2022,7
+2022-07-01,HYC,conventional hydroelectric,24567.4546,thousand megawatthours,2022,7
+2022-07-01,COL,"coal, excluding waste coal",85687.92048,thousand megawatthours,2022,7
+2022-06-01,NG,natural gas,155516.99607,thousand megawatthours,2022,6
+2022-06-01,WND,wind,33767.53068,thousand megawatthours,2022,6
+2022-06-01,SUN,solar,16052.33251,thousand megawatthours,2022,6
+2022-06-01,HYC,conventional hydroelectric,25987.79518,thousand megawatthours,2022,6
+2022-06-01,COL,"coal, excluding waste coal",72838.79878,thousand megawatthours,2022,6
+2022-06-01,ALL,all fuels,379133.82357,thousand megawatthours,2022,6
+2022-06-01,NUC,nuclear,65715.42,thousand megawatthours,2022,6
+2022-05-01,ALL,all fuels,342183.64215,thousand megawatthours,2022,5
+2022-05-01,WND,wind,42123.69758,thousand megawatthours,2022,5
+2022-05-01,SUN,solar,15120.20823,thousand megawatthours,2022,5
+2022-05-01,NUC,nuclear,63381.62449,thousand megawatthours,2022,5
+2022-05-01,NG,natural gas,127091.02336,thousand megawatthours,2022,5
+2022-05-01,HYC,conventional hydroelectric,23358.77956,thousand megawatthours,2022,5
+2022-05-01,COL,"coal, excluding waste coal",61776.29951,thousand megawatthours,2022,5
+2022-04-01,SUN,solar,13401.63316,thousand megawatthours,2022,4
+2022-04-01,NUC,nuclear,55289.54,thousand megawatthours,2022,4
+2022-04-01,NG,natural gas,105505.84655,thousand megawatthours,2022,4
+2022-04-01,HYC,conventional hydroelectric,20065.83638,thousand megawatthours,2022,4
+2022-04-01,COL,"coal, excluding waste coal",54768.49046,thousand megawatthours,2022,4
+2022-04-01,ALL,all fuels,303993.64888,thousand megawatthours,2022,4
+2022-04-01,WND,wind,46167.09477,thousand megawatthours,2022,4
+2022-03-01,ALL,all fuels,324530.48058,thousand megawatthours,2022,3
+2022-03-01,WND,wind,43030.54797,thousand megawatthours,2022,3
+2022-03-01,SUN,solar,11694.22208,thousand megawatthours,2022,3
+2022-03-01,NUC,nuclear,63153.701,thousand megawatthours,2022,3
+2022-03-01,NG,natural gas,112477.26754,thousand megawatthours,2022,3
+2022-03-01,HYC,conventional hydroelectric,24436.41649,thousand megawatthours,2022,3
+2022-03-01,COL,"coal, excluding waste coal",60466.9228,thousand megawatthours,2022,3
+2022-02-01,SUN,solar,9026.75939,thousand megawatthours,2022,2
+2022-02-01,HYC,conventional hydroelectric,21320.56822,thousand megawatthours,2022,2
+2022-02-01,COL,"coal, excluding waste coal",70309.9795,thousand megawatthours,2022,2
+2022-02-01,ALL,all fuels,324310.77193,thousand megawatthours,2022,2
+2022-02-01,NUC,nuclear,61852.177,thousand megawatthours,2022,2
+2022-02-01,NG,natural gas,114945.42818,thousand megawatthours,2022,2
+2022-02-01,WND,wind,37644.62607,thousand megawatthours,2022,2
+2022-01-01,ALL,all fuels,373765.70458,thousand megawatthours,2022,1
+2022-01-01,WND,wind,37416.32051,thousand megawatthours,2022,1
+2022-01-01,SUN,solar,7821.62574,thousand megawatthours,2022,1
+2022-01-01,NUC,nuclear,70576.875,thousand megawatthours,2022,1
+2022-01-01,NG,natural gas,134947.53058,thousand megawatthours,2022,1
+2022-01-01,HYC,conventional hydroelectric,24197.61344,thousand megawatthours,2022,1
+2022-01-01,COL,"coal, excluding waste coal",86801.63853,thousand megawatthours,2022,1
+2021-12-01,HYC,conventional hydroelectric,23561.87556,thousand megawatthours,2021,12
+2021-12-01,COL,"coal, excluding waste coal",59267.92449,thousand megawatthours,2021,12
+2021-12-01,ALL,all fuels,337103.56092,thousand megawatthours,2021,12
+2021-12-01,NUC,nuclear,70719.837,thousand megawatthours,2021,12
+2021-12-01,WND,wind,39849.02762,thousand megawatthours,2021,12
+2021-12-01,SUN,solar,6090.86526,thousand megawatthours,2021,12
+2021-12-01,NG,natural gas,127586.43005,thousand megawatthours,2021,12
+2021-11-01,SUN,solar,7795.101,thousand megawatthours,2021,11
+2021-11-01,NUC,nuclear,62749.318,thousand megawatthours,2021,11
+2021-11-01,NG,natural gas,122433.25919,thousand megawatthours,2021,11
+2021-11-01,HYC,conventional hydroelectric,19373.24966,thousand megawatthours,2021,11
+2021-11-01,COL,"coal, excluding waste coal",56827.8991,thousand megawatthours,2021,11
+2021-11-01,ALL,all fuels,314309.52061,thousand megawatthours,2021,11
+2021-11-01,WND,wind,35751.09063,thousand megawatthours,2021,11
+2021-10-01,SUN,solar,9268.03855,thousand megawatthours,2021,10
+2021-10-01,HYC,conventional hydroelectric,17132.93623,thousand megawatthours,2021,10
+2021-10-01,COL,"coal, excluding waste coal",62025.66766,thousand megawatthours,2021,10
+2021-10-01,ALL,all fuels,320201.77808,thousand megawatthours,2021,10
+2021-10-01,NUC,nuclear,58401.112,thousand megawatthours,2021,10
+2021-10-01,NG,natural gas,131851.68145,thousand megawatthours,2021,10
+2021-10-01,WND,wind,32215.11144,thousand megawatthours,2021,10
+2021-09-01,ALL,all fuels,347743.77489,thousand megawatthours,2021,9
+2021-09-01,WND,wind,28997.8029,thousand megawatthours,2021,9
+2021-09-01,SUN,solar,11214.24963,thousand megawatthours,2021,9
+2021-09-01,NUC,nuclear,64520.031,thousand megawatthours,2021,9
+2021-09-01,NG,natural gas,138214.4087,thousand megawatthours,2021,9
+2021-09-01,HYC,conventional hydroelectric,17022.26652,thousand megawatthours,2021,9
+2021-09-01,COL,"coal, excluding waste coal",78336.6771,thousand megawatthours,2021,9
+2021-08-01,ALL,all fuels,412864.76753,thousand megawatthours,2021,8
+2021-08-01,WND,wind,27071.12204,thousand megawatthours,2021,8
+2021-08-01,SUN,solar,11966.82782,thousand megawatthours,2021,8
+2021-08-01,NUC,nuclear,69471.331,thousand megawatthours,2021,8
+2021-08-01,NG,natural gas,172716.00517,thousand megawatthours,2021,8
+2021-08-01,HYC,conventional hydroelectric,20328.14723,thousand megawatthours,2021,8
+2021-08-01,COL,"coal, excluding waste coal",101203.99686,thousand megawatthours,2021,8
+2021-07-01,NG,natural gas,170189.36311,thousand megawatthours,2021,7
+2021-07-01,HYC,conventional hydroelectric,22097.51226,thousand megawatthours,2021,7
+2021-07-01,COL,"coal, excluding waste coal",100844.26295,thousand megawatthours,2021,7
+2021-07-01,ALL,all fuels,405624.09062,thousand megawatthours,2021,7
+2021-07-01,WND,wind,21715.55151,thousand megawatthours,2021,7
+2021-07-01,SUN,solar,12191.6812,thousand megawatthours,2021,7
+2021-07-01,NUC,nuclear,68831.593,thousand megawatthours,2021,7
+2021-06-01,ALL,all fuels,373856.47762,thousand megawatthours,2021,6
+2021-06-01,WND,wind,26671.53368,thousand megawatthours,2021,6
+2021-06-01,SUN,solar,12196.77663,thousand megawatthours,2021,6
+2021-06-01,NUC,nuclear,66070.373,thousand megawatthours,2021,6
+2021-06-01,NG,natural gas,149375.55551,thousand megawatthours,2021,6
+2021-06-01,HYC,conventional hydroelectric,23454.07921,thousand megawatthours,2021,6
+2021-06-01,COL,"coal, excluding waste coal",86691.50558,thousand megawatthours,2021,6
+2021-05-01,ALL,all fuels,320180.96143,thousand megawatthours,2021,5
+2021-05-01,WND,wind,33786.50791,thousand megawatthours,2021,5
+2021-05-01,SUN,solar,12457.16045,thousand megawatthours,2021,5
+2021-05-01,NUC,nuclear,63394.115,thousand megawatthours,2021,5
+2021-05-01,NG,natural gas,114675.79155,thousand megawatthours,2021,5
+2021-05-01,HYC,conventional hydroelectric,23308.96396,thousand megawatthours,2021,5
+2021-05-01,COL,"coal, excluding waste coal",63343.67723,thousand megawatthours,2021,5
+2021-04-01,HYC,conventional hydroelectric,19388.82781,thousand megawatthours,2021,4
+2021-04-01,COL,"coal, excluding waste coal",53656.42948,thousand megawatthours,2021,4
+2021-04-01,ALL,all fuels,293307.94443,thousand megawatthours,2021,4
+2021-04-01,WND,wind,36157.80676,thousand megawatthours,2021,4
+2021-04-01,SUN,solar,10891.71409,thousand megawatthours,2021,4
+2021-04-01,NUC,nuclear,57092.024,thousand megawatthours,2021,4
+2021-04-01,NG,natural gas,107416.26793,thousand megawatthours,2021,4
+2021-03-01,HYC,conventional hydroelectric,21220.43408,thousand megawatthours,2021,3
+2021-03-01,WND,wind,39205.24802,thousand megawatthours,2021,3
+2021-03-01,SUN,solar,9296.18165,thousand megawatthours,2021,3
+2021-03-01,COL,"coal, excluding waste coal",61263.59244,thousand megawatthours,2021,3
+2021-03-01,ALL,all fuels,311397.27585,thousand megawatthours,2021,3
+2021-03-01,NUC,nuclear,63708.238,thousand megawatthours,2021,3
+2021-03-01,NG,natural gas,107018.71133,thousand megawatthours,2021,3
+2021-02-01,ALL,all fuels,323899.52894,thousand megawatthours,2021,2
+2021-02-01,WND,wind,26715.50092,thousand megawatthours,2021,2
+2021-02-01,SUN,solar,6330.40705,thousand megawatthours,2021,2
+2021-02-01,NUC,nuclear,62954.16,thousand megawatthours,2021,2
+2021-02-01,NG,natural gas,111182.91493,thousand megawatthours,2021,2
+2021-02-01,HYC,conventional hydroelectric,20136.50917,thousand megawatthours,2021,2
+2021-02-01,COL,"coal, excluding waste coal",86833.35197,thousand megawatthours,2021,2
+2021-01-01,NUC,nuclear,71732.463,thousand megawatthours,2021,1
+2021-01-01,SUN,solar,5559.24502,thousand megawatthours,2021,1
+2021-01-01,WND,wind,30060.4714,thousand megawatthours,2021,1
+2021-01-01,COL,"coal, excluding waste coal",80621.17472,thousand megawatthours,2021,1
+2021-01-01,ALL,all fuels,349209.70891,thousand megawatthours,2021,1
+2021-01-01,NG,natural gas,126529.59847,thousand megawatthours,2021,1
+2021-01-01,HYC,conventional hydroelectric,24560.04066,thousand megawatthours,2021,1
+2020-12-01,ALL,all fuels,344346.09465,thousand megawatthours,2020,12
+2020-12-01,WND,wind,32010.64517,thousand megawatthours,2020,12
+2020-12-01,SUN,solar,5091.42256,thousand megawatthours,2020,12
+2020-12-01,NUC,nuclear,69870.978,thousand megawatthours,2020,12
+2020-12-01,NG,natural gas,127685.13509,thousand megawatthours,2020,12
+2020-12-01,HYC,conventional hydroelectric,21507.84718,thousand megawatthours,2020,12
+2020-12-01,COL,"coal, excluding waste coal",77978.82589,thousand megawatthours,2020,12
+2020-11-01,SUN,solar,5766.51939,thousand megawatthours,2020,11
+2020-11-01,NUC,nuclear,61759.977,thousand megawatthours,2020,11
+2020-11-01,NG,natural gas,109657.92447,thousand megawatthours,2020,11
+2020-11-01,HYC,conventional hydroelectric,20892.65917,thousand megawatthours,2020,11
+2020-11-01,COL,"coal, excluding waste coal",60759.31027,thousand megawatthours,2020,11
+2020-11-01,ALL,all fuels,301250.18091,thousand megawatthours,2020,11
+2020-11-01,WND,wind,33129.4051,thousand megawatthours,2020,11
+2020-10-01,ALL,all fuels,313531.27121,thousand megawatthours,2020,10
+2020-10-01,NUC,nuclear,59362.465,thousand megawatthours,2020,10
+2020-10-01,NG,natural gas,131241.61631,thousand megawatthours,2020,10
+2020-10-01,HYC,conventional hydroelectric,18810.4061,thousand megawatthours,2020,10
+2020-10-01,COL,"coal, excluding waste coal",59249.1088,thousand megawatthours,2020,10
+2020-10-01,WND,wind,28822.66268,thousand megawatthours,2020,10
+2020-10-01,SUN,solar,7085.18487,thousand megawatthours,2020,10
+2020-09-01,ALL,all fuels,333258.04764,thousand megawatthours,2020,9
+2020-09-01,WND,wind,23185.97755,thousand megawatthours,2020,9
+2020-09-01,SUN,solar,7732.32157,thousand megawatthours,2020,9
+2020-09-01,NUC,nuclear,65727.317,thousand megawatthours,2020,9
+2020-09-01,NG,natural gas,141163.7049,thousand megawatthours,2020,9
+2020-09-01,HYC,conventional hydroelectric,18678.80991,thousand megawatthours,2020,9
+2020-09-01,COL,"coal, excluding waste coal",67877.65745,thousand megawatthours,2020,9
+2020-08-01,SUN,solar,9315.42156,thousand megawatthours,2020,8
+2020-08-01,NUC,nuclear,68982.187,thousand megawatthours,2020,8
+2020-08-01,NG,natural gas,173389.75292,thousand megawatthours,2020,8
+2020-08-01,HYC,conventional hydroelectric,23283.5577,thousand megawatthours,2020,8
+2020-08-01,COL,"coal, excluding waste coal",90574.82238,thousand megawatthours,2020,8
+2020-08-01,ALL,all fuels,398279.69734,thousand megawatthours,2020,8
+2020-08-01,WND,wind,23029.3319,thousand megawatthours,2020,8
+2020-07-01,ALL,all fuels,409561.69982,thousand megawatthours,2020,7
+2020-07-01,WND,wind,22866.19821,thousand megawatthours,2020,7
+2020-07-01,SUN,solar,10609.77315,thousand megawatthours,2020,7
+2020-07-01,NUC,nuclear,69385.44,thousand megawatthours,2020,7
+2020-07-01,NG,natural gas,181259.73547,thousand megawatthours,2020,7
+2020-07-01,HYC,conventional hydroelectric,26741.77947,thousand megawatthours,2020,7
+2020-07-01,COL,"coal, excluding waste coal",89196.91819,thousand megawatthours,2020,7
+2020-06-01,SUN,solar,9654.00577,thousand megawatthours,2020,6
+2020-06-01,COL,"coal, excluding waste coal",64950.85175,thousand megawatthours,2020,6
+2020-06-01,ALL,all fuels,351744.93031,thousand megawatthours,2020,6
+2020-06-01,NUC,nuclear,67205.083,thousand megawatthours,2020,6
+2020-06-01,NG,natural gas,142833.3469,thousand megawatthours,2020,6
+2020-06-01,HYC,conventional hydroelectric,27999.3837,thousand megawatthours,2020,6
+2020-06-01,WND,wind,30212.40523,thousand megawatthours,2020,6
+2020-05-01,COL,"coal, excluding waste coal",46175.12917,thousand megawatthours,2020,5
+2020-05-01,ALL,all fuels,304593.23748,thousand megawatthours,2020,5
+2020-05-01,WND,wind,28377.50536,thousand megawatthours,2020,5
+2020-05-01,SUN,solar,9653.40589,thousand megawatthours,2020,5
+2020-05-01,NUC,nuclear,64337.97,thousand megawatthours,2020,5
+2020-05-01,NG,natural gas,116942.93863,thousand megawatthours,2020,5
+2020-05-01,HYC,conventional hydroelectric,29976.16051,thousand megawatthours,2020,5
+2020-04-01,ALL,all fuels,279583.26477,thousand megawatthours,2020,4
+2020-04-01,WND,wind,29752.22898,thousand megawatthours,2020,4
+2020-04-01,SUN,solar,7920.7291,thousand megawatthours,2020,4
+2020-04-01,NUC,nuclear,59170.016,thousand megawatthours,2020,4
+2020-04-01,NG,natural gas,110300.65012,thousand megawatthours,2020,4
+2020-04-01,HYC,conventional hydroelectric,23194.35466,thousand megawatthours,2020,4
+2020-04-01,COL,"coal, excluding waste coal",40224.11046,thousand megawatthours,2020,4
+2020-03-01,SUN,solar,6349.64464,thousand megawatthours,2020,3
+2020-03-01,COL,"coal, excluding waste coal",50281.97733,thousand megawatthours,2020,3
+2020-03-01,ALL,all fuels,309586.72327,thousand megawatthours,2020,3
+2020-03-01,NUC,nuclear,63997.21,thousand megawatthours,2020,3
+2020-03-01,NG,natural gas,125904.68928,thousand megawatthours,2020,3
+2020-03-01,HYC,conventional hydroelectric,23823.01748,thousand megawatthours,2020,3
+2020-03-01,WND,wind,29319.78293,thousand megawatthours,2020,3
+2020-02-01,ALL,all fuels,319550.11366,thousand megawatthours,2020,2
+2020-02-01,WND,wind,29110.49454,thousand megawatthours,2020,2
+2020-02-01,SUN,solar,5561.4092,thousand megawatthours,2020,2
+2020-02-01,NUC,nuclear,65910.574,thousand megawatthours,2020,2
+2020-02-01,NG,natural gas,127871.17318,thousand megawatthours,2020,2
+2020-02-01,HYC,conventional hydroelectric,25868.06177,thousand megawatthours,2020,2
+2020-02-01,COL,"coal, excluding waste coal",55663.70834,thousand megawatthours,2020,2
+2020-01-01,COL,"coal, excluding waste coal",64579.55654,thousand megawatthours,2020,1
+2020-01-01,ALL,all fuels,341850.20573,thousand megawatthours,2020,1
+2020-01-01,WND,wind,28121.41138,thousand megawatthours,2020,1
+2020-01-01,SUN,solar,4458.87743,thousand megawatthours,2020,1
+2020-01-01,NUC,nuclear,74169.646,thousand megawatthours,2020,1
+2020-01-01,NG,natural gas,135916.20216,thousand megawatthours,2020,1
+2020-01-01,HYC,conventional hydroelectric,24497.85718,thousand megawatthours,2020,1
+2019-12-01,ALL,all fuels,338401.6474,thousand megawatthours,2019,12
+2019-12-01,WND,wind,26643.83983,thousand megawatthours,2019,12
+2019-12-01,SUN,solar,3453.07527,thousand megawatthours,2019,12
+2019-12-01,NUC,nuclear,73073.575,thousand megawatthours,2019,12
+2019-12-01,NG,natural gas,131838.91728,thousand megawatthours,2019,12
+2019-12-01,HYC,conventional hydroelectric,21478.18136,thousand megawatthours,2019,12
+2019-12-01,COL,"coal, excluding waste coal",71967.1684,thousand megawatthours,2019,12
+2019-11-01,ALL,all fuels,315849.09204,thousand megawatthours,2019,11
+2019-11-01,WND,wind,25184.35888,thousand megawatthours,2019,11
+2019-11-01,SUN,solar,4363.99289,thousand megawatthours,2019,11
+2019-11-01,NUC,nuclear,64125.425,thousand megawatthours,2019,11
+2019-11-01,NG,natural gas,117910.46597,thousand megawatthours,2019,11
+2019-11-01,HYC,conventional hydroelectric,20217.59733,thousand megawatthours,2019,11
+2019-11-01,COL,"coal, excluding waste coal",74993.52871,thousand megawatthours,2019,11
+2019-10-01,HYC,conventional hydroelectric,18305.81291,thousand megawatthours,2019,10
+2019-10-01,WND,wind,27624.5193,thousand megawatthours,2019,10
+2019-10-01,COL,"coal, excluding waste coal",66306.6797,thousand megawatthours,2019,10
+2019-10-01,ALL,all fuels,320351.88482,thousand megawatthours,2019,10
+2019-10-01,SUN,solar,6093.46647,thousand megawatthours,2019,10
+2019-10-01,NUC,nuclear,62032.622,thousand megawatthours,2019,10
+2019-10-01,NG,natural gas,130947.61797,thousand megawatthours,2019,10
+2019-09-01,WND,wind,24513.46786,thousand megawatthours,2019,9
+2019-09-01,NUC,nuclear,66063.58,thousand megawatthours,2019,9
+2019-09-01,NG,natural gas,149697.03128,thousand megawatthours,2019,9
+2019-09-01,HYC,conventional hydroelectric,18525.75999,thousand megawatthours,2019,9
+2019-09-01,COL,"coal, excluding waste coal",85359.9062,thousand megawatthours,2019,9
+2019-09-01,ALL,all fuels,360518.46825,thousand megawatthours,2019,9
+2019-09-01,SUN,solar,6817.21992,thousand megawatthours,2019,9
+2019-08-01,ALL,all fuels,401429.69356,thousand megawatthours,2019,8
+2019-08-01,WND,wind,19978.03073,thousand megawatthours,2019,8
+2019-08-01,SUN,solar,7876.55371,thousand megawatthours,2019,8
+2019-08-01,NUC,nuclear,71910.684,thousand megawatthours,2019,8
+2019-08-01,NG,natural gas,174968.28657,thousand megawatthours,2019,8
+2019-08-01,HYC,conventional hydroelectric,22578.66752,thousand megawatthours,2019,8
+2019-08-01,COL,"coal, excluding waste coal",93580.18536,thousand megawatthours,2019,8
+2019-07-01,COL,"coal, excluding waste coal",100326.47692,thousand megawatthours,2019,7
+2019-07-01,ALL,all fuels,410037.81039,thousand megawatthours,2019,7
+2019-07-01,WND,wind,22100.72207,thousand megawatthours,2019,7
+2019-07-01,SUN,solar,8132.64079,thousand megawatthours,2019,7
+2019-07-01,NUC,nuclear,72198.595,thousand megawatthours,2019,7
+2019-07-01,NG,natural gas,171954.56399,thousand megawatthours,2019,7
+2019-07-01,HYC,conventional hydroelectric,24875.39844,thousand megawatthours,2019,7
+2019-06-01,HYC,conventional hydroelectric,28077.76308,thousand megawatthours,2019,6
+2019-06-01,WND,wind,22445.97049,thousand megawatthours,2019,6
+2019-06-01,COL,"coal, excluding waste coal",77912.87021,thousand megawatthours,2019,6
+2019-06-01,ALL,all fuels,352988.0739,thousand megawatthours,2019,6
+2019-06-01,SUN,solar,7971.09298,thousand megawatthours,2019,6
+2019-06-01,NUC,nuclear,68804.879,thousand megawatthours,2019,6
+2019-06-01,NG,natural gas,137836.13768,thousand megawatthours,2019,6
+2019-05-01,NG,natural gas,117058.87399,thousand megawatthours,2019,5
+2019-05-01,HYC,conventional hydroelectric,31982.04155,thousand megawatthours,2019,5
+2019-05-01,COL,"coal, excluding waste coal",71345.26509,thousand megawatthours,2019,5
+2019-05-01,ALL,all fuels,330423.04767,thousand megawatthours,2019,5
+2019-05-01,WND,wind,25779.38696,thousand megawatthours,2019,5
+2019-05-01,SUN,solar,7161.89697,thousand megawatthours,2019,5
+2019-05-01,NUC,nuclear,67123.546,thousand megawatthours,2019,5
+2019-04-01,HYC,conventional hydroelectric,27820.1768,thousand megawatthours,2019,4
+2019-04-01,WND,wind,28915.30603,thousand megawatthours,2019,4
+2019-04-01,SUN,solar,6752.27638,thousand megawatthours,2019,4
+2019-04-01,COL,"coal, excluding waste coal",59408.20643,thousand megawatthours,2019,4
+2019-04-01,ALL,all fuels,296662.56944,thousand megawatthours,2019,4
+2019-04-01,NUC,nuclear,60580.927,thousand megawatthours,2019,4
+2019-04-01,NG,natural gas,104058.59005,thousand megawatthours,2019,4
+2019-03-01,SUN,solar,5898.62563,thousand megawatthours,2019,3
+2019-03-01,COL,"coal, excluding waste coal",77590.71029,thousand megawatthours,2019,3
+2019-03-01,NUC,nuclear,65079.691,thousand megawatthours,2019,3
+2019-03-01,NG,natural gas,115813.10124,thousand megawatthours,2019,3
+2019-03-01,HYC,conventional hydroelectric,26333.98533,thousand megawatthours,2019,3
+2019-03-01,ALL,all fuels,326657.20759,thousand megawatthours,2019,3
+2019-03-01,WND,wind,25772.67842,thousand megawatthours,2019,3
+2019-02-01,ALL,all fuels,315026.48424,thousand megawatthours,2019,2
+2019-02-01,SUN,solar,3835.77281,thousand megawatthours,2019,2
+2019-02-01,NUC,nuclear,64714.894,thousand megawatthours,2019,2
+2019-02-01,WND,wind,22622.75342,thousand megawatthours,2019,2
+2019-02-01,NG,natural gas,112141.91132,thousand megawatthours,2019,2
+2019-02-01,HYC,conventional hydroelectric,22880.53778,thousand megawatthours,2019,2
+2019-02-01,COL,"coal, excluding waste coal",79225.0863,thousand megawatthours,2019,2
+2019-01-01,COL,"coal, excluding waste coal",100031.77622,thousand megawatthours,2019,1
+2019-01-01,ALL,all fuels,359509.23411,thousand megawatthours,2019,1
+2019-01-01,WND,wind,24301.4495,thousand megawatthours,2019,1
+2019-01-01,SUN,solar,3580.20841,thousand megawatthours,2019,1
+2019-01-01,NUC,nuclear,73700.844,thousand megawatthours,2019,1
+2019-01-01,NG,natural gas,121588.67631,thousand megawatthours,2019,1
+2019-01-01,HYC,conventional hydroelectric,24797.80842,thousand megawatthours,2019,1
+2018-12-01,ALL,all fuels,342139.11163,thousand megawatthours,2018,12
+2018-12-01,WND,wind,24306.28369,thousand megawatthours,2018,12
+2018-12-01,SUN,solar,3109.63979,thousand megawatthours,2018,12
+2018-12-01,NUC,nuclear,71657.288,thousand megawatthours,2018,12
+2018-12-01,NG,natural gas,109801.97563,thousand megawatthours,2018,12
+2018-12-01,HYC,conventional hydroelectric,22797.16131,thousand megawatthours,2018,12
+2018-12-01,COL,"coal, excluding waste coal",99465.1141,thousand megawatthours,2018,12
+2018-11-01,HYC,conventional hydroelectric,21912.71643,thousand megawatthours,2018,11
+2018-11-01,COL,"coal, excluding waste coal",91978.78972,thousand megawatthours,2018,11
+2018-11-01,ALL,all fuels,322368.65684,thousand megawatthours,2018,11
+2018-11-01,WND,wind,22015.7339,thousand megawatthours,2018,11
+2018-11-01,SUN,solar,3742.76491,thousand megawatthours,2018,11
+2018-11-01,NUC,nuclear,63954.37,thousand megawatthours,2018,11
+2018-11-01,NG,natural gas,108167.63501,thousand megawatthours,2018,11
+2018-10-01,ALL,all fuels,324931.94313,thousand megawatthours,2018,10
+2018-10-01,WND,wind,21193.89801,thousand megawatthours,2018,10
+2018-10-01,SUN,solar,4969.69097,thousand megawatthours,2018,10
+2018-10-01,NUC,nuclear,59396.905,thousand megawatthours,2018,10
+2018-10-01,NG,natural gas,123142.23947,thousand megawatthours,2018,10
+2018-10-01,HYC,conventional hydroelectric,19548.19092,thousand megawatthours,2018,10
+2018-10-01,COL,"coal, excluding waste coal",86612.56879,thousand megawatthours,2018,10
+2018-09-01,COL,"coal, excluding waste coal",95855.20564,thousand megawatthours,2018,9
+2018-09-01,NUC,nuclear,64724.753,thousand megawatthours,2018,9
+2018-09-01,NG,natural gas,141785.5277,thousand megawatthours,2018,9
+2018-09-01,HYC,conventional hydroelectric,19165.6208,thousand megawatthours,2018,9
+2018-09-01,ALL,all fuels,356258.30168,thousand megawatthours,2018,9
+2018-09-01,WND,wind,18519.67063,thousand megawatthours,2018,9
+2018-09-01,SUN,solar,5960.90148,thousand megawatthours,2018,9
+2018-08-01,SUN,solar,6695.40796,thousand megawatthours,2018,8
+2018-08-01,NUC,nuclear,72282.467,thousand megawatthours,2018,8
+2018-08-01,NG,natural gas,161676.24102,thousand megawatthours,2018,8
+2018-08-01,HYC,conventional hydroelectric,22016.90536,thousand megawatthours,2018,8
+2018-08-01,COL,"coal, excluding waste coal",114301.41591,thousand megawatthours,2018,8
+2018-08-01,ALL,all fuels,408027.7567,thousand megawatthours,2018,8
+2018-08-01,WND,wind,19846.43699,thousand megawatthours,2018,8
+2018-07-01,ALL,all fuels,411290.31965,thousand megawatthours,2018,7
+2018-07-01,NUC,nuclear,72456.009,thousand megawatthours,2018,7
+2018-07-01,NG,natural gas,164749.06024,thousand megawatthours,2018,7
+2018-07-01,WND,wind,16446.57439,thousand megawatthours,2018,7
+2018-07-01,SUN,solar,6754.8758,thousand megawatthours,2018,7
+2018-07-01,HYC,conventional hydroelectric,25099.52896,thousand megawatthours,2018,7
+2018-07-01,COL,"coal, excluding waste coal",114537.68258,thousand megawatthours,2018,7
+2018-06-01,COL,"coal, excluding waste coal",100794.89585,thousand megawatthours,2018,6
+2018-06-01,WND,wind,24702.85593,thousand megawatthours,2018,6
+2018-06-01,SUN,solar,7414.66701,thousand megawatthours,2018,6
+2018-06-01,NUC,nuclear,69687.556,thousand megawatthours,2018,6
+2018-06-01,NG,natural gas,130826.39996,thousand megawatthours,2018,6
+2018-06-01,ALL,all fuels,371885.76125,thousand megawatthours,2018,6
+2018-06-01,HYC,conventional hydroelectric,27597.48847,thousand megawatthours,2018,6
+2018-05-01,ALL,all fuels,338947.60558,thousand megawatthours,2018,5
+2018-05-01,WND,wind,23953.12766,thousand megawatthours,2018,5
+2018-05-01,SUN,solar,6849.01231,thousand megawatthours,2018,5
+2018-05-01,NUC,nuclear,67320.248,thousand megawatthours,2018,5
+2018-05-01,NG,natural gas,115283.9823,thousand megawatthours,2018,5
+2018-05-01,HYC,conventional hydroelectric,30444.28385,thousand megawatthours,2018,5
+2018-05-01,COL,"coal, excluding waste coal",84742.64189,thousand megawatthours,2018,5
+2018-04-01,WND,wind,26430.85718,thousand megawatthours,2018,4
+2018-04-01,ALL,all fuels,300756.44042,thousand megawatthours,2018,4
+2018-04-01,HYC,conventional hydroelectric,28115.15452,thousand megawatthours,2018,4
+2018-04-01,COL,"coal, excluding waste coal",72796.24939,thousand megawatthours,2018,4
+2018-04-01,NUC,nuclear,59133.155,thousand megawatthours,2018,4
+2018-04-01,NG,natural gas,98371.08027,thousand megawatthours,2018,4
+2018-04-01,SUN,solar,6056.72671,thousand megawatthours,2018,4
+2018-03-01,ALL,all fuels,321546.95371,thousand megawatthours,2018,3
+2018-03-01,WND,wind,26463.70391,thousand megawatthours,2018,3
+2018-03-01,SUN,solar,5056.23832,thousand megawatthours,2018,3
+2018-03-01,NUC,nuclear,67032.656,thousand megawatthours,2018,3
+2018-03-01,NG,natural gas,106523.77987,thousand megawatthours,2018,3
+2018-03-01,HYC,conventional hydroelectric,25860.604,thousand megawatthours,2018,3
+2018-03-01,COL,"coal, excluding waste coal",79773.43378,thousand megawatthours,2018,3
+2018-02-01,SUN,solar,3896.41408,thousand megawatthours,2018,2
+2018-02-01,NUC,nuclear,64790.03,thousand megawatthours,2018,2
+2018-02-01,NG,natural gas,98511.85154,thousand megawatthours,2018,2
+2018-02-01,HYC,conventional hydroelectric,24902.25758,thousand megawatthours,2018,2
+2018-02-01,COL,"coal, excluding waste coal",81296.91236,thousand megawatthours,2018,2
+2018-02-01,ALL,all fuels,306894.21345,thousand megawatthours,2018,2
+2018-02-01,WND,wind,23189.48924,thousand megawatthours,2018,2
+2018-01-01,NG,natural gas,110292.90908,thousand megawatthours,2018,1
+2018-01-01,HYC,conventional hydroelectric,25064.07663,thousand megawatthours,2018,1
+2018-01-01,COL,"coal, excluding waste coal",118258.05829,thousand megawatthours,2018,1
+2018-01-01,ALL,all fuels,373230.27968,thousand megawatthours,2018,1
+2018-01-01,WND,wind,25598.8222,thousand megawatthours,2018,1
+2018-01-01,SUN,solar,3318.97521,thousand megawatthours,2018,1
+2018-01-01,NUC,nuclear,74649.04,thousand megawatthours,2018,1
+2017-12-01,ALL,all fuels,350407.86529,thousand megawatthours,2017,12
+2017-12-01,HYC,conventional hydroelectric,22247.84164,thousand megawatthours,2017,12
+2017-12-01,WND,wind,22200.68098,thousand megawatthours,2017,12
+2017-12-01,SUN,solar,3035.00469,thousand megawatthours,2017,12
+2017-12-01,NUC,nuclear,73699.572,thousand megawatthours,2017,12
+2017-12-01,NG,natural gas,111397.79204,thousand megawatthours,2017,12
+2017-12-01,COL,"coal, excluding waste coal",105622.91206,thousand megawatthours,2017,12
+2017-11-01,NG,natural gas,94928.34076,thousand megawatthours,2017,11
+2017-11-01,WND,wind,22614.8668,thousand megawatthours,2017,11
+2017-11-01,SUN,solar,3208.74868,thousand megawatthours,2017,11
+2017-11-01,HYC,conventional hydroelectric,19888.33402,thousand megawatthours,2017,11
+2017-11-01,COL,"coal, excluding waste coal",90426.12727,thousand megawatthours,2017,11
+2017-11-01,ALL,all fuels,308044.71631,thousand megawatthours,2017,11
+2017-11-01,NUC,nuclear,66617.853,thousand megawatthours,2017,11
+2017-10-01,HYC,conventional hydroelectric,17698.17945,thousand megawatthours,2017,10
+2017-10-01,COL,"coal, excluding waste coal",89186.69978,thousand megawatthours,2017,10
+2017-10-01,ALL,all fuels,318662.27709,thousand megawatthours,2017,10
+2017-10-01,WND,wind,24368.70291,thousand megawatthours,2017,10
+2017-10-01,SUN,solar,4649.67321,thousand megawatthours,2017,10
+2017-10-01,NUC,nuclear,65994.785,thousand megawatthours,2017,10
+2017-10-01,NG,natural gas,106826.27512,thousand megawatthours,2017,10
+2017-09-01,ALL,all fuels,335907.98312,thousand megawatthours,2017,9
+2017-09-01,WND,wind,17911.77474,thousand megawatthours,2017,9
+2017-09-01,NUC,nuclear,68097.918,thousand megawatthours,2017,9
+2017-09-01,NG,natural gas,118035.85224,thousand megawatthours,2017,9
+2017-09-01,HYC,conventional hydroelectric,19151.75538,thousand megawatthours,2017,9
+2017-09-01,COL,"coal, excluding waste coal",97475.44207,thousand megawatthours,2017,9
+2017-09-01,SUN,solar,5059.44137,thousand megawatthours,2017,9
+2017-08-01,ALL,all fuels,384730.58633,thousand megawatthours,2017,8
+2017-08-01,SUN,solar,5368.53677,thousand megawatthours,2017,8
+2017-08-01,NUC,nuclear,72384.218,thousand megawatthours,2017,8
+2017-08-01,NG,natural gas,141201.1381,thousand megawatthours,2017,8
+2017-08-01,WND,wind,13878.84827,thousand megawatthours,2017,8
+2017-08-01,HYC,conventional hydroelectric,22033.85574,thousand megawatthours,2017,8
+2017-08-01,COL,"coal, excluding waste coal",118678.28975,thousand megawatthours,2017,8
+2017-07-01,ALL,all fuels,404424.64581,thousand megawatthours,2017,7
+2017-07-01,WND,wind,16119.99604,thousand megawatthours,2017,7
+2017-07-01,SUN,solar,5569.10622,thousand megawatthours,2017,7
+2017-07-01,NUC,nuclear,71314.219,thousand megawatthours,2017,7
+2017-07-01,NG,natural gas,146929.43853,thousand megawatthours,2017,7
+2017-07-01,HYC,conventional hydroelectric,26598.24651,thousand megawatthours,2017,7
+2017-07-01,COL,"coal, excluding waste coal",126900.30904,thousand megawatthours,2017,7
+2017-06-01,ALL,all fuels,358514.31016,thousand megawatthours,2017,6
+2017-06-01,WND,wind,20141.74696,thousand megawatthours,2017,6
+2017-06-01,SUN,solar,6115.379,thousand megawatthours,2017,6
+2017-06-01,COL,"coal, excluding waste coal",106834.34159,thousand megawatthours,2017,6
+2017-06-01,HYC,conventional hydroelectric,30575.29559,thousand megawatthours,2017,6
+2017-06-01,NUC,nuclear,67010.782,thousand megawatthours,2017,6
+2017-06-01,NG,natural gas,117235.70085,thousand megawatthours,2017,6
+2017-05-01,ALL,all fuels,323439.21668,thousand megawatthours,2017,5
+2017-05-01,WND,wind,23067.63856,thousand megawatthours,2017,5
+2017-05-01,SUN,solar,5785.02726,thousand megawatthours,2017,5
+2017-05-01,NUC,nuclear,61312.753,thousand megawatthours,2017,5
+2017-05-01,NG,natural gas,98019.31124,thousand megawatthours,2017,5
+2017-05-01,HYC,conventional hydroelectric,32607.11514,thousand megawatthours,2017,5
+2017-05-01,COL,"coal, excluding waste coal",92148.94499,thousand megawatthours,2017,5
+2017-04-01,ALL,all fuels,295354.24916,thousand megawatthours,2017,4
+2017-04-01,WND,wind,25377.94296,thousand megawatthours,2017,4
+2017-04-01,SUN,solar,4906.67802,thousand megawatthours,2017,4
+2017-04-01,NUC,nuclear,56743.352,thousand megawatthours,2017,4
+2017-04-01,NG,natural gas,88455.10059,thousand megawatthours,2017,4
+2017-04-01,HYC,conventional hydroelectric,29409.46563,thousand megawatthours,2017,4
+2017-04-01,COL,"coal, excluding waste coal",80806.43996,thousand megawatthours,2017,4
+2017-03-01,ALL,all fuels,319328.74211,thousand megawatthours,2017,3
+2017-03-01,WND,wind,25730.61672,thousand megawatthours,2017,3
+2017-03-01,SUN,solar,4514.08465,thousand megawatthours,2017,3
+2017-03-01,NUC,nuclear,65093.2,thousand megawatthours,2017,3
+2017-03-01,NG,natural gas,95073.66171,thousand megawatthours,2017,3
+2017-03-01,HYC,conventional hydroelectric,29613.19463,thousand megawatthours,2017,3
+2017-03-01,COL,"coal, excluding waste coal",88508.23255,thousand megawatthours,2017,3
+2017-02-01,ALL,all fuels,291043.31412,thousand megawatthours,2017,2
+2017-02-01,WND,wind,22091.10927,thousand megawatthours,2017,2
+2017-02-01,SUN,solar,2751.19905,thousand megawatthours,2017,2
+2017-02-01,NUC,nuclear,63560.371,thousand megawatthours,2017,2
+2017-02-01,NG,natural gas,82767.65084,thousand megawatthours,2017,2
+2017-02-01,HYC,conventional hydroelectric,23881.76459,thousand megawatthours,2017,2
+2017-02-01,COL,"coal, excluding waste coal",86012.09103,thousand megawatthours,2017,2
+2017-01-01,ALL,all fuels,344324.95166,thousand megawatthours,2017,1
+2017-01-01,NUC,nuclear,73120.612,thousand megawatthours,2017,1
+2017-01-01,NG,natural gas,95572.22908,thousand megawatthours,2017,1
+2017-01-01,HYC,conventional hydroelectric,26627.88134,thousand megawatthours,2017,1
+2017-01-01,WND,wind,20798.77101,thousand megawatthours,2017,1
+2017-01-01,SUN,solar,2323.98616,thousand megawatthours,2017,1
+2017-01-01,COL,"coal, excluding waste coal",114419.3442,thousand megawatthours,2017,1
+2016-12-01,HYC,conventional hydroelectric,22527.76456,thousand megawatthours,2016,12
+2016-12-01,WND,wind,23145.52474,thousand megawatthours,2016,12
+2016-12-01,SUN,solar,2423.52344,thousand megawatthours,2016,12
+2016-12-01,COL,"coal, excluding waste coal",117846.26068,thousand megawatthours,2016,12
+2016-12-01,ALL,all fuels,345336.87453,thousand megawatthours,2016,12
+2016-12-01,NUC,nuclear,71662.429,thousand megawatthours,2016,12
+2016-12-01,NG,natural gas,96363.59628,thousand megawatthours,2016,12
+2016-11-01,ALL,all fuels,297056.26276,thousand megawatthours,2016,11
+2016-11-01,WND,wind,19405.64211,thousand megawatthours,2016,11
+2016-11-01,HYC,conventional hydroelectric,18808.26528,thousand megawatthours,2016,11
+2016-11-01,NUC,nuclear,65178.776,thousand megawatthours,2016,11
+2016-11-01,NG,natural gas,93941.8345,thousand megawatthours,2016,11
+2016-11-01,SUN,solar,2767.14449,thousand megawatthours,2016,11
+2016-11-01,COL,"coal, excluding waste coal",86361.28292,thousand megawatthours,2016,11
+2016-10-01,ALL,all fuels,312939.72788,thousand megawatthours,2016,10
+2016-10-01,HYC,conventional hydroelectric,17338.85654,thousand megawatthours,2016,10
+2016-10-01,NUC,nuclear,60733.343,thousand megawatthours,2016,10
+2016-10-01,NG,natural gas,102897.98607,thousand megawatthours,2016,10
+2016-10-01,WND,wind,20335.38978,thousand megawatthours,2016,10
+2016-10-01,SUN,solar,3191.22418,thousand megawatthours,2016,10
+2016-10-01,COL,"coal, excluding waste coal",98768.62261,thousand megawatthours,2016,10
+2016-09-01,ALL,all fuels,351479.33284,thousand megawatthours,2016,9
+2016-09-01,WND,wind,16403.64017,thousand megawatthours,2016,9
+2016-09-01,SUN,solar,3635.06928,thousand megawatthours,2016,9
+2016-09-01,NUC,nuclear,65448.176,thousand megawatthours,2016,9
+2016-09-01,NG,natural gas,125602.73981,thousand megawatthours,2016,9
+2016-09-01,HYC,conventional hydroelectric,16367.68403,thousand megawatthours,2016,9
+2016-09-01,COL,"coal, excluding waste coal",113444.75693,thousand megawatthours,2016,9
+2016-08-01,COL,"coal, excluding waste coal",134643.01788,thousand megawatthours,2016,8
+2016-08-01,NUC,nuclear,71526.405,thousand megawatthours,2016,8
+2016-08-01,NG,natural gas,154759.67321,thousand megawatthours,2016,8
+2016-08-01,WND,wind,13589.32615,thousand megawatthours,2016,8
+2016-08-01,SUN,solar,3969.18623,thousand megawatthours,2016,8
+2016-08-01,HYC,conventional hydroelectric,19569.54914,thousand megawatthours,2016,8
+2016-08-01,ALL,all fuels,409695.03402,thousand megawatthours,2016,8
+2016-07-01,HYC,conventional hydroelectric,21455.32093,thousand megawatthours,2016,7
+2016-07-01,COL,"coal, excluding waste coal",135333.89283,thousand megawatthours,2016,7
+2016-07-01,ALL,all fuels,411881.0731,thousand megawatthours,2016,7
+2016-07-01,WND,wind,17618.35712,thousand megawatthours,2016,7
+2016-07-01,SUN,solar,3944.79289,thousand megawatthours,2016,7
+2016-07-01,NUC,nuclear,70349.347,thousand megawatthours,2016,7
+2016-07-01,NG,natural gas,151553.87196,thousand megawatthours,2016,7
+2016-06-01,HYC,conventional hydroelectric,23236.86739,thousand megawatthours,2016,6
+2016-06-01,COL,"coal, excluding waste coal",115271.87955,thousand megawatthours,2016,6
+2016-06-01,ALL,all fuels,367775.77376,thousand megawatthours,2016,6
+2016-06-01,WND,wind,16303.4413,thousand megawatthours,2016,6
+2016-06-01,SUN,solar,3473.49784,thousand megawatthours,2016,6
+2016-06-01,NUC,nuclear,67175.324,thousand megawatthours,2016,6
+2016-06-01,NG,natural gas,131395.22913,thousand megawatthours,2016,6
+2016-05-01,HYC,conventional hydroelectric,25486.38143,thousand megawatthours,2016,5
+2016-05-01,COL,"coal, excluding waste coal",81023.703,thousand megawatthours,2016,5
+2016-05-01,NUC,nuclear,66576.493,thousand megawatthours,2016,5
+2016-05-01,NG,natural gas,110430.1923,thousand megawatthours,2016,5
+2016-05-01,ALL,all fuels,316778.65137,thousand megawatthours,2016,5
+2016-05-01,WND,wind,18847.89867,thousand megawatthours,2016,5
+2016-05-01,SUN,solar,3425.18345,thousand megawatthours,2016,5
+2016-04-01,ALL,all fuels,292888.74563,thousand megawatthours,2016,4
+2016-04-01,WND,wind,20799.30345,thousand megawatthours,2016,4
+2016-04-01,SUN,solar,2879.68187,thousand megawatthours,2016,4
+2016-04-01,NUC,nuclear,62731.845,thousand megawatthours,2016,4
+2016-04-01,NG,natural gas,98875.9473,thousand megawatthours,2016,4
+2016-04-01,HYC,conventional hydroelectric,25878.02878,thousand megawatthours,2016,4
+2016-04-01,COL,"coal, excluding waste coal",71570.14438,thousand megawatthours,2016,4
+2016-03-01,ALL,all fuels,304384.23689,thousand megawatthours,2016,3
+2016-03-01,WND,wind,21939.40933,thousand megawatthours,2016,3
+2016-03-01,SUN,solar,2617.45225,thousand megawatthours,2016,3
+2016-03-01,NUC,nuclear,66148.894,thousand megawatthours,2016,3
+2016-03-01,NG,natural gas,103889.93756,thousand megawatthours,2016,3
+2016-03-01,HYC,conventional hydroelectric,27389.8772,thousand megawatthours,2016,3
+2016-03-01,COL,"coal, excluding waste coal",71426.75248,thousand megawatthours,2016,3
+2016-02-01,ALL,all fuels,313680.3803,thousand megawatthours,2016,2
+2016-02-01,WND,wind,20138.2278,thousand megawatthours,2016,2
+2016-02-01,SUN,solar,2241.56342,thousand megawatthours,2016,2
+2016-02-01,NUC,nuclear,65638.141,thousand megawatthours,2016,2
+2016-02-01,NG,natural gas,98552.17908,thousand megawatthours,2016,2
+2016-02-01,HYC,conventional hydroelectric,24139.01548,thousand megawatthours,2016,2
+2016-02-01,COL,"coal, excluding waste coal",91857.75184,thousand megawatthours,2016,2
+2016-01-01,ALL,all fuels,352713.71943,thousand megawatthours,2016,1
+2016-01-01,WND,wind,18466.40151,thousand megawatthours,2016,1
+2016-01-01,HYC,conventional hydroelectric,25614.54233,thousand megawatthours,2016,1
+2016-01-01,NUC,nuclear,72524.775,thousand megawatthours,2016,1
+2016-01-01,NG,natural gas,110043.74673,thousand megawatthours,2016,1
+2016-01-01,SUN,solar,1485.80182,thousand megawatthours,2016,1
+2016-01-01,COL,"coal, excluding waste coal",112474.37724,thousand megawatthours,2016,1
+2015-12-01,HYC,conventional hydroelectric,23165.56195,thousand megawatthours,2015,12
+2015-12-01,COL,"coal, excluding waste coal",88786.47082,thousand megawatthours,2015,12
+2015-12-01,WND,wind,20098.37277,thousand megawatthours,2015,12
+2015-12-01,SUN,solar,1569.89498,thousand megawatthours,2015,12
+2015-12-01,NUC,nuclear,69633.664,thousand megawatthours,2015,12
+2015-12-01,NG,natural gas,109776.67885,thousand megawatthours,2015,12
+2015-12-01,ALL,all fuels,324420.69959,thousand megawatthours,2015,12
+2015-11-01,HYC,conventional hydroelectric,19337.83088,thousand megawatthours,2015,11
+2015-11-01,NUC,nuclear,60263.941,thousand megawatthours,2015,11
+2015-11-01,WND,wind,19681.71564,thousand megawatthours,2015,11
+2015-11-01,SUN,solar,1729.6613,thousand megawatthours,2015,11
+2015-11-01,NG,natural gas,102236.25483,thousand megawatthours,2015,11
+2015-11-01,COL,"coal, excluding waste coal",86493.68822,thousand megawatthours,2015,11
+2015-11-01,ALL,all fuels,300646.80726,thousand megawatthours,2015,11
+2015-10-01,COL,"coal, excluding waste coal",96295.42207,thousand megawatthours,2015,10
+2015-10-01,NUC,nuclear,60570.921,thousand megawatthours,2015,10
+2015-10-01,NG,natural gas,110005.03903,thousand megawatthours,2015,10
+2015-10-01,ALL,all fuels,312105.70168,thousand megawatthours,2015,10
+2015-10-01,WND,wind,16380.03853,thousand megawatthours,2015,10
+2015-10-01,SUN,solar,1909.57979,thousand megawatthours,2015,10
+2015-10-01,HYC,conventional hydroelectric,16630.40155,thousand megawatthours,2015,10
+2015-09-01,SUN,solar,2217.1241,thousand megawatthours,2015,9
+2015-09-01,NUC,nuclear,66476.372,thousand megawatthours,2015,9
+2015-09-01,NG,natural gas,123035.92238,thousand megawatthours,2015,9
+2015-09-01,HYC,conventional hydroelectric,16094.1224,thousand megawatthours,2015,9
+2015-09-01,COL,"coal, excluding waste coal",117185.36765,thousand megawatthours,2015,9
+2015-09-01,ALL,all fuels,350115.31729,thousand megawatthours,2015,9
+2015-09-01,WND,wind,13971.56651,thousand megawatthours,2015,9
+2015-08-01,NG,natural gas,139083.7544,thousand megawatthours,2015,8
+2015-08-01,COL,"coal, excluding waste coal",133828.25066,thousand megawatthours,2015,8
+2015-08-01,ALL,all fuels,392109.58745,thousand megawatthours,2015,8
+2015-08-01,HYC,conventional hydroelectric,19122.10511,thousand megawatthours,2015,8
+2015-08-01,WND,wind,13080.02756,thousand megawatthours,2015,8
+2015-08-01,SUN,solar,2687.55324,thousand megawatthours,2015,8
+2015-08-01,NUC,nuclear,72415.352,thousand megawatthours,2015,8
+2015-07-01,SUN,solar,2627.06355,thousand megawatthours,2015,7
+2015-07-01,NUC,nuclear,71412.176,thousand megawatthours,2015,7
+2015-07-01,NG,natural gas,141119.08134,thousand megawatthours,2015,7
+2015-07-01,HYC,conventional hydroelectric,21014.22144,thousand megawatthours,2015,7
+2015-07-01,COL,"coal, excluding waste coal",138321.41768,thousand megawatthours,2015,7
+2015-07-01,ALL,all fuels,400412.40259,thousand megawatthours,2015,7
+2015-07-01,WND,wind,13675.44937,thousand megawatthours,2015,7
+2015-06-01,NUC,nuclear,68516.165,thousand megawatthours,2015,6
+2015-06-01,WND,wind,13421.26619,thousand megawatthours,2015,6
+2015-06-01,COL,"coal, excluding waste coal",124892.86401,thousand megawatthours,2015,6
+2015-06-01,SUN,solar,2557.5982,thousand megawatthours,2015,6
+2015-06-01,ALL,all fuels,362403.00441,thousand megawatthours,2015,6
+2015-06-01,NG,natural gas,121477.74922,thousand megawatthours,2015,6
+2015-06-01,HYC,conventional hydroelectric,20414.084,thousand megawatthours,2015,6
+2015-05-01,ALL,all fuels,322080.75837,thousand megawatthours,2015,5
+2015-05-01,WND,wind,17151.34131,thousand megawatthours,2015,5
+2015-05-01,SUN,solar,2504.14881,thousand megawatthours,2015,5
+2015-05-01,NUC,nuclear,65826.525,thousand megawatthours,2015,5
+2015-05-01,NG,natural gas,101516.3545,thousand megawatthours,2015,5
+2015-05-01,HYC,conventional hydroelectric,20125.4156,thousand megawatthours,2015,5
+2015-05-01,COL,"coal, excluding waste coal",103939.59854,thousand megawatthours,2015,5
+2015-04-01,SUN,solar,2379.11811,thousand megawatthours,2015,4
+2015-04-01,NUC,nuclear,59784.495,thousand megawatthours,2015,4
+2015-04-01,NG,natural gas,92805.99824,thousand megawatthours,2015,4
+2015-04-01,COL,"coal, excluding waste coal",88522.55035,thousand megawatthours,2015,4
+2015-04-01,WND,wind,17867.14921,thousand megawatthours,2015,4
+2015-04-01,HYC,conventional hydroelectric,22470.97723,thousand megawatthours,2015,4
+2015-04-01,ALL,all fuels,294127.63929,thousand megawatthours,2015,4
+2015-03-01,NG,natural gas,99422.71998,thousand megawatthours,2015,3
+2015-03-01,HYC,conventional hydroelectric,24280.90476,thousand megawatthours,2015,3
+2015-03-01,COL,"coal, excluding waste coal",107883.87479,thousand megawatthours,2015,3
+2015-03-01,ALL,all fuels,324186.09214,thousand megawatthours,2015,3
+2015-03-01,WND,wind,15307.92894,thousand megawatthours,2015,3
+2015-03-01,SUN,solar,2072.25703,thousand megawatthours,2015,3
+2015-03-01,NUC,nuclear,64546.799,thousand megawatthours,2015,3
+2015-02-01,HYC,conventional hydroelectric,22286.07601,thousand megawatthours,2015,2
+2015-02-01,COL,"coal, excluding waste coal",126064.92431,thousand megawatthours,2015,2
+2015-02-01,ALL,all fuels,334470.60698,thousand megawatthours,2015,2
+2015-02-01,NUC,nuclear,63461.493,thousand megawatthours,2015,2
+2015-02-01,NG,natural gas,91315.16471,thousand megawatthours,2015,2
+2015-02-01,WND,wind,14921.54534,thousand megawatthours,2015,2
+2015-02-01,SUN,solar,1483.55386,thousand megawatthours,2015,2
+2015-01-01,HYC,conventional hydroelectric,24138.3839,thousand megawatthours,2015,1
+2015-01-01,COL,"coal, excluding waste coal",131505.83386,thousand megawatthours,2015,1
+2015-01-01,ALL,all fuels,360449.2625,thousand megawatthours,2015,1
+2015-01-01,WND,wind,15162.14633,thousand megawatthours,2015,1
+2015-01-01,SUN,solar,1155.35063,thousand megawatthours,2015,1
+2015-01-01,NUC,nuclear,74269.974,thousand megawatthours,2015,1
+2015-01-01,NG,natural gas,101687.39262,thousand megawatthours,2015,1
+2014-12-01,COL,"coal, excluding waste coal",123798.56075,thousand megawatthours,2014,12
+2014-12-01,NUC,nuclear,73362.548,thousand megawatthours,2014,12
+2014-12-01,NG,natural gas,91037.8204,thousand megawatthours,2014,12
+2014-12-01,HYC,conventional hydroelectric,22328.78862,thousand megawatthours,2014,12
+2014-12-01,SUN,solar,1031.74441,thousand megawatthours,2014,12
+2014-12-01,ALL,all fuels,337950.59111,thousand megawatthours,2014,12
+2014-12-01,WND,wind,14711.24947,thousand megawatthours,2014,12
+2014-11-01,NG,natural gas,84353.51326,thousand megawatthours,2014,11
+2014-11-01,HYC,conventional hydroelectric,18624.92296,thousand megawatthours,2014,11
+2014-11-01,COL,"coal, excluding waste coal",118302.45325,thousand megawatthours,2014,11
+2014-11-01,ALL,all fuels,317489.02094,thousand megawatthours,2014,11
+2014-11-01,WND,wind,18866.92881,thousand megawatthours,2014,11
+2014-11-01,SUN,solar,1379.63993,thousand megawatthours,2014,11
+2014-11-01,NUC,nuclear,65140.185,thousand megawatthours,2014,11
+2014-10-01,ALL,all fuels,314516.32764,thousand megawatthours,2014,10
+2014-10-01,NUC,nuclear,62390.988,thousand megawatthours,2014,10
+2014-10-01,NG,natural gas,97683.01576,thousand megawatthours,2014,10
+2014-10-01,HYC,conventional hydroelectric,17159.21225,thousand megawatthours,2014,10
+2014-10-01,WND,wind,14507.93111,thousand megawatthours,2014,10
+2014-10-01,SUN,solar,1716.92302,thousand megawatthours,2014,10
+2014-10-01,COL,"coal, excluding waste coal",110718.35276,thousand megawatthours,2014,10
+2014-09-01,ALL,all fuels,339880.57118,thousand megawatthours,2014,9
+2014-09-01,WND,wind,11519.76842,thousand megawatthours,2014,9
+2014-09-01,SUN,solar,1832.26056,thousand megawatthours,2014,9
+2014-09-01,NUC,nuclear,67534.5,thousand megawatthours,2014,9
+2014-09-01,NG,natural gas,106581.58568,thousand megawatthours,2014,9
+2014-09-01,HYC,conventional hydroelectric,16074.32674,thousand megawatthours,2014,9
+2014-09-01,COL,"coal, excluding waste coal",125186.34827,thousand megawatthours,2014,9
+2014-08-01,ALL,all fuels,384334.97824,thousand megawatthours,2014,8
+2014-08-01,WND,wind,10170.52076,thousand megawatthours,2014,8
+2014-08-01,SUN,solar,1879.48203,thousand megawatthours,2014,8
+2014-08-01,NUC,nuclear,71128.746,thousand megawatthours,2014,8
+2014-08-01,NG,natural gas,122348.42288,thousand megawatthours,2014,8
+2014-08-01,HYC,conventional hydroelectric,19807.24668,thousand megawatthours,2014,8
+2014-08-01,COL,"coal, excluding waste coal",147482.37175,thousand megawatthours,2014,8
+2014-07-01,NG,natural gas,115081.26949,thousand megawatthours,2014,7
+2014-07-01,HYC,conventional hydroelectric,24357.40238,thousand megawatthours,2014,7
+2014-07-01,ALL,all fuels,385773.27325,thousand megawatthours,2014,7
+2014-07-01,COL,"coal, excluding waste coal",148642.56729,thousand megawatthours,2014,7
+2014-07-01,SUN,solar,1787.69886,thousand megawatthours,2014,7
+2014-07-01,WND,wind,12187.39242,thousand megawatthours,2014,7
+2014-07-01,NUC,nuclear,71940.126,thousand megawatthours,2014,7
+2014-06-01,NG,natural gas,98467.60766,thousand megawatthours,2014,6
+2014-06-01,HYC,conventional hydroelectric,25743.87767,thousand megawatthours,2014,6
+2014-06-01,COL,"coal, excluding waste coal",136640.82003,thousand megawatthours,2014,6
+2014-06-01,ALL,all fuels,357838.22997,thousand megawatthours,2014,6
+2014-06-01,WND,wind,15798.81712,thousand megawatthours,2014,6
+2014-06-01,SUN,solar,1923.32588,thousand megawatthours,2014,6
+2014-06-01,NUC,nuclear,68138.232,thousand megawatthours,2014,6
+2014-05-01,COL,"coal, excluding waste coal",117984.03416,thousand megawatthours,2014,5
+2014-05-01,ALL,all fuels,324718.20093,thousand megawatthours,2014,5
+2014-05-01,WND,wind,15601.36684,thousand megawatthours,2014,5
+2014-05-01,SUN,solar,1749.65461,thousand megawatthours,2014,5
+2014-05-01,NUC,nuclear,62947.43,thousand megawatthours,2014,5
+2014-05-01,NG,natural gas,89119.67653,thousand megawatthours,2014,5
+2014-05-01,HYC,conventional hydroelectric,26543.88511,thousand megawatthours,2014,5
+2014-04-01,ALL,all fuels,297625.29265,thousand megawatthours,2014,4
+2014-04-01,WND,wind,18635.54917,thousand megawatthours,2014,4
+2014-04-01,SUN,solar,1487.09725,thousand megawatthours,2014,4
+2014-04-01,NUC,nuclear,56384.588,thousand megawatthours,2014,4
+2014-04-01,NG,natural gas,76781.87947,thousand megawatthours,2014,4
+2014-04-01,HYC,conventional hydroelectric,25439.90661,thousand megawatthours,2014,4
+2014-04-01,COL,"coal, excluding waste coal",108473.2773,thousand megawatthours,2014,4
+2014-03-01,ALL,all fuels,331817.54641,thousand megawatthours,2014,3
+2014-03-01,HYC,conventional hydroelectric,24257.12925,thousand megawatthours,2014,3
+2014-03-01,WND,wind,17735.8829,thousand megawatthours,2014,3
+2014-03-01,SUN,solar,1317.09371,thousand megawatthours,2014,3
+2014-03-01,NUC,nuclear,62397.08,thousand megawatthours,2014,3
+2014-03-01,NG,natural gas,78150.91836,thousand megawatthours,2014,3
+2014-03-01,COL,"coal, excluding waste coal",135514.87582,thousand megawatthours,2014,3
+2014-02-01,ALL,all fuels,324344.12066,thousand megawatthours,2014,2
+2014-02-01,HYC,conventional hydroelectric,17396.12893,thousand megawatthours,2014,2
+2014-02-01,WND,wind,14008.66045,thousand megawatthours,2014,2
+2014-02-01,SUN,solar,834.9922,thousand megawatthours,2014,2
+2014-02-01,COL,"coal, excluding waste coal",142382.58176,thousand megawatthours,2014,2
+2014-02-01,NUC,nuclear,62638.95,thousand megawatthours,2014,2
+2014-02-01,NG,natural gas,75942.31445,thousand megawatthours,2014,2
+2014-01-01,HYC,conventional hydroelectric,21633.79467,thousand megawatthours,2014,1
+2014-01-01,NUC,nuclear,73162.609,thousand megawatthours,2014,1
+2014-01-01,NG,natural gas,91060.93439,thousand megawatthours,2014,1
+2014-01-01,WND,wind,17911.21433,thousand megawatthours,2014,1
+2014-01-01,SUN,solar,751.11873,thousand megawatthours,2014,1
+2014-01-01,COL,"coal, excluding waste coal",156015.90882,thousand megawatthours,2014,1
+2014-01-01,ALL,all fuels,377249.83084,thousand megawatthours,2014,1
+2013-12-01,ALL,all fuels,353021.24773,thousand megawatthours,2013,12
+2013-12-01,WND,wind,13967.05881,thousand megawatthours,2013,12
+2013-12-01,SUN,solar,850.02134,thousand megawatthours,2013,12
+2013-12-01,NUC,nuclear,71293.578,thousand megawatthours,2013,12
+2013-12-01,NG,natural gas,92936.2913,thousand megawatthours,2013,12
+2013-12-01,HYC,conventional hydroelectric,21128.29918,thousand megawatthours,2013,12
+2013-12-01,COL,"coal, excluding waste coal",140869.34501,thousand megawatthours,2013,12
+2013-11-01,SUN,solar,824.35218,thousand megawatthours,2013,11
+2013-11-01,COL,"coal, excluding waste coal",120275.8705,thousand megawatthours,2013,11
+2013-11-01,ALL,all fuels,314539.64185,thousand megawatthours,2013,11
+2013-11-01,WND,wind,15803.25968,thousand megawatthours,2013,11
+2013-11-01,NUC,nuclear,64975.456,thousand megawatthours,2013,11
+2013-11-01,NG,natural gas,84286.78492,thousand megawatthours,2013,11
+2013-11-01,HYC,conventional hydroelectric,17676.83384,thousand megawatthours,2013,11
+2013-10-01,WND,wind,13635.01809,thousand megawatthours,2013,10
+2013-10-01,COL,"coal, excluding waste coal",120365.20456,thousand megawatthours,2013,10
+2013-10-01,ALL,all fuels,314925.46247,thousand megawatthours,2013,10
+2013-10-01,NUC,nuclear,63183.533,thousand megawatthours,2013,10
+2013-10-01,NG,natural gas,88587.40151,thousand megawatthours,2013,10
+2013-10-01,HYC,conventional hydroelectric,17198.59414,thousand megawatthours,2013,10
+2013-10-01,SUN,solar,987.53341,thousand megawatthours,2013,10
+2013-09-01,ALL,all fuels,340940.90155,thousand megawatthours,2013,9
+2013-09-01,WND,wind,11674.08115,thousand megawatthours,2013,9
+2013-09-01,SUN,solar,948.77866,thousand megawatthours,2013,9
+2013-09-01,NUC,nuclear,65798.971,thousand megawatthours,2013,9
+2013-09-01,NG,natural gas,102063.23334,thousand megawatthours,2013,9
+2013-09-01,HYC,conventional hydroelectric,16961.1523,thousand megawatthours,2013,9
+2013-09-01,COL,"coal, excluding waste coal",132471.24302,thousand megawatthours,2013,9
+2013-08-01,COL,"coal, excluding waste coal",148627.73112,thousand megawatthours,2013,8
+2013-08-01,ALL,all fuels,385285.74515,thousand megawatthours,2013,8
+2013-08-01,WND,wind,9633.88368,thousand megawatthours,2013,8
+2013-08-01,SUN,solar,944.09174,thousand megawatthours,2013,8
+2013-08-01,NUC,nuclear,71344.379,thousand megawatthours,2013,8
+2013-08-01,NG,natural gas,121156.39696,thousand megawatthours,2013,8
+2013-08-01,HYC,conventional hydroelectric,21633.31561,thousand megawatthours,2013,8
+2013-07-01,ALL,all fuels,394845.6208,thousand megawatthours,2013,7
+2013-07-01,WND,wind,11093.61355,thousand megawatthours,2013,7
+2013-07-01,SUN,solar,828.84727,thousand megawatthours,2013,7
+2013-07-01,NUC,nuclear,70539.238,thousand megawatthours,2013,7
+2013-07-01,NG,natural gas,120770.9808,thousand megawatthours,2013,7
+2013-07-01,HYC,conventional hydroelectric,27254.5715,thousand megawatthours,2013,7
+2013-07-01,COL,"coal, excluding waste coal",151869.43716,thousand megawatthours,2013,7
+2013-06-01,ALL,all fuels,356822.64723,thousand megawatthours,2013,6
+2013-06-01,WND,wind,13748.10576,thousand megawatthours,2013,6
+2013-06-01,SUN,solar,870.68502,thousand megawatthours,2013,6
+2013-06-01,NUC,nuclear,66429.69,thousand megawatthours,2013,6
+2013-06-01,NG,natural gas,99615.06431,thousand megawatthours,2013,6
+2013-06-01,HYC,conventional hydroelectric,27384.06656,thousand megawatthours,2013,6
+2013-06-01,COL,"coal, excluding waste coal",137424.77126,thousand megawatthours,2013,6
+2013-05-01,COL,"coal, excluding waste coal",118616.4467,thousand megawatthours,2013,5
+2013-05-01,WND,wind,16238.70213,thousand megawatthours,2013,5
+2013-05-01,SUN,solar,752.70649,thousand megawatthours,2013,5
+2013-05-01,ALL,all fuels,322155.64042,thousand megawatthours,2013,5
+2013-05-01,NUC,nuclear,62848.155,thousand megawatthours,2013,5
+2013-05-01,NG,natural gas,83815.59186,thousand megawatthours,2013,5
+2013-05-01,HYC,conventional hydroelectric,28450.09411,thousand megawatthours,2013,5
+2013-04-01,ALL,all fuels,299332.86831,thousand megawatthours,2013,4
+2013-04-01,WND,wind,17476.27429,thousand megawatthours,2013,4
+2013-04-01,SUN,solar,666.73879,thousand megawatthours,2013,4
+2013-04-01,NUC,nuclear,56766.882,thousand megawatthours,2013,4
+2013-04-01,NG,natural gas,78036.43182,thousand megawatthours,2013,4
+2013-04-01,HYC,conventional hydroelectric,25097.10474,thousand megawatthours,2013,4
+2013-04-01,COL,"coal, excluding waste coal",111226.32039,thousand megawatthours,2013,4
+2013-03-01,COL,"coal, excluding waste coal",129599.19341,thousand megawatthours,2013,3
+2013-03-01,ALL,all fuels,325398.83402,thousand megawatthours,2013,3
+2013-03-01,WND,wind,15755.65337,thousand megawatthours,2013,3
+2013-03-01,SUN,solar,619.39901,thousand megawatthours,2013,3
+2013-03-01,NUC,nuclear,62947.389,thousand megawatthours,2013,3
+2013-03-01,NG,natural gas,84725.25919,thousand megawatthours,2013,3
+2013-03-01,HYC,conventional hydroelectric,20534.35802,thousand megawatthours,2013,3
+2013-02-01,NG,natural gas,80283.07377,thousand megawatthours,2013,2
+2013-02-01,ALL,all fuels,309728.08,thousand megawatthours,2013,2
+2013-02-01,WND,wind,14075.59068,thousand megawatthours,2013,2
+2013-02-01,SUN,solar,432.64262,thousand megawatthours,2013,2
+2013-02-01,HYC,conventional hydroelectric,20418.46514,thousand megawatthours,2013,2
+2013-02-01,COL,"coal, excluding waste coal",122734.89571,thousand megawatthours,2013,2
+2013-02-01,NUC,nuclear,61483.385,thousand megawatthours,2013,2
+2013-01-01,ALL,all fuels,348967.37792,thousand megawatthours,2013,1
+2013-01-01,WND,wind,14738.50426,thousand megawatthours,2013,1
+2013-01-01,SUN,solar,309.82386,thousand megawatthours,2013,1
+2013-01-01,NUC,nuclear,71405.817,thousand megawatthours,2013,1
+2013-01-01,NG,natural gas,88559.05007,thousand megawatthours,2013,1
+2013-01-01,HYC,conventional hydroelectric,24828.52759,thousand megawatthours,2013,1
+2013-01-01,COL,"coal, excluding waste coal",137196.37154,thousand megawatthours,2013,1
+2012-12-01,NG,natural gas,83989.0974,thousand megawatthours,2012,12
+2012-12-01,COL,"coal, excluding waste coal",133296.89432,thousand megawatthours,2012,12
+2012-12-01,HYC,conventional hydroelectric,22984.35228,thousand megawatthours,2012,12
+2012-12-01,ALL,all fuels,334634.74915,thousand megawatthours,2012,12
+2012-12-01,WND,wind,14523.51758,thousand megawatthours,2012,12
+2012-12-01,SUN,solar,348.77212,thousand megawatthours,2012,12
+2012-12-01,NUC,nuclear,68583.669,thousand megawatthours,2012,12
+2012-11-01,SUN,solar,347.27595,thousand megawatthours,2012,11
+2012-11-01,NUC,nuclear,56712.757,thousand megawatthours,2012,11
+2012-11-01,NG,natural gas,80169.46107,thousand megawatthours,2012,11
+2012-11-01,HYC,conventional hydroelectric,18733.31916,thousand megawatthours,2012,11
+2012-11-01,COL,"coal, excluding waste coal",127787.33571,thousand megawatthours,2012,11
+2012-11-01,ALL,all fuels,305975.85101,thousand megawatthours,2012,11
+2012-11-01,WND,wind,11648.4968,thousand megawatthours,2012,11
+2012-10-01,SUN,solar,431.42698,thousand megawatthours,2012,10
+2012-10-01,NUC,nuclear,59743.218,thousand megawatthours,2012,10
+2012-10-01,NG,natural gas,91725.37056,thousand megawatthours,2012,10
+2012-10-01,HYC,conventional hydroelectric,16501.69662,thousand megawatthours,2012,10
+2012-10-01,COL,"coal, excluding waste coal",120343.13446,thousand megawatthours,2012,10
+2012-10-01,ALL,all fuels,311651.9307,thousand megawatthours,2012,10
+2012-10-01,WND,wind,12635.90112,thousand megawatthours,2012,10
+2012-09-01,ALL,all fuels,334585.56266,thousand megawatthours,2012,9
+2012-09-01,SUN,solar,458.10265,thousand megawatthours,2012,9
+2012-09-01,NUC,nuclear,64510.882,thousand megawatthours,2012,9
+2012-09-01,NG,natural gas,108012.30069,thousand megawatthours,2012,9
+2012-09-01,WND,wind,8789.86546,thousand megawatthours,2012,9
+2012-09-01,HYC,conventional hydroelectric,17603.96419,thousand megawatthours,2012,9
+2012-09-01,COL,"coal, excluding waste coal",124819.99602,thousand megawatthours,2012,9
+2012-08-01,ALL,all fuels,395699.74917,thousand megawatthours,2012,8
+2012-08-01,WND,wind,8469.41899,thousand megawatthours,2012,8
+2012-08-01,SUN,solar,461.41088,thousand megawatthours,2012,8
+2012-08-01,NUC,nuclear,69602.111,thousand megawatthours,2012,8
+2012-08-01,NG,natural gas,131735.86442,thousand megawatthours,2012,8
+2012-08-01,HYC,conventional hydroelectric,23033.72581,thousand megawatthours,2012,8
+2012-08-01,COL,"coal, excluding waste coal",151278.5905,thousand megawatthours,2012,8
+2012-07-01,ALL,all fuels,414641.21748,thousand megawatthours,2012,7
+2012-07-01,WND,wind,8823.083,thousand megawatthours,2012,7
+2012-07-01,SUN,solar,509.51028,thousand megawatthours,2012,7
+2012-07-01,NUC,nuclear,69129.329,thousand megawatthours,2012,7
+2012-07-01,NG,natural gas,138862.84998,thousand megawatthours,2012,7
+2012-07-01,HYC,conventional hydroelectric,26491.04579,thousand megawatthours,2012,7
+2012-07-01,COL,"coal, excluding waste coal",159512.6087,thousand megawatthours,2012,7
+2012-06-01,SUN,solar,527.06764,thousand megawatthours,2012,6
+2012-06-01,NUC,nuclear,65140.085,thousand megawatthours,2012,6
+2012-06-01,NG,natural gas,115597.50323,thousand megawatthours,2012,6
+2012-06-01,HYC,conventional hydroelectric,26657.66222,thousand megawatthours,2012,6
+2012-06-01,COL,"coal, excluding waste coal",130484.83463,thousand megawatthours,2012,6
+2012-06-01,ALL,all fuels,360825.3809,thousand megawatthours,2012,6
+2012-06-01,WND,wind,11972.15949,thousand megawatthours,2012,6
+2012-05-01,NG,natural gas,107351.81228,thousand megawatthours,2012,5
+2012-05-01,HYC,conventional hydroelectric,28641.31224,thousand megawatthours,2012,5
+2012-05-01,COL,"coal, excluding waste coal",115214.6725,thousand megawatthours,2012,5
+2012-05-01,ALL,all fuels,336516.15597,thousand megawatthours,2012,5
+2012-05-01,WND,wind,12540.32427,thousand megawatthours,2012,5
+2012-05-01,SUN,solar,462.59684,thousand megawatthours,2012,5
+2012-05-01,NUC,nuclear,62081.445,thousand megawatthours,2012,5
+2012-04-01,ALL,all fuels,295229.20493,thousand megawatthours,2012,4
+2012-04-01,WND,wind,12709.03261,thousand megawatthours,2012,4
+2012-04-01,SUN,solar,318.72331,thousand megawatthours,2012,4
+2012-04-01,NUC,nuclear,55870.931,thousand megawatthours,2012,4
+2012-04-01,NG,natural gas,94828.59637,thousand megawatthours,2012,4
+2012-04-01,HYC,conventional hydroelectric,26295.39842,thousand megawatthours,2012,4
+2012-04-01,COL,"coal, excluding waste coal",95727.6483,thousand megawatthours,2012,4
+2012-03-01,SUN,solar,231.22839,thousand megawatthours,2012,3
+2012-03-01,NUC,nuclear,61728.613,thousand megawatthours,2012,3
+2012-03-01,NG,natural gas,92250.65327,thousand megawatthours,2012,3
+2012-03-01,HYC,conventional hydroelectric,25906.63425,thousand megawatthours,2012,3
+2012-03-01,COL,"coal, excluding waste coal",104809.87294,thousand megawatthours,2012,3
+2012-03-01,ALL,all fuels,309089.55207,thousand megawatthours,2012,3
+2012-03-01,WND,wind,14027.34496,thousand megawatthours,2012,3
+2012-02-01,ALL,all fuels,309389.43252,thousand megawatthours,2012,2
+2012-02-01,WND,wind,11051.71417,thousand megawatthours,2012,2
+2012-02-01,SUN,solar,135.24034,thousand megawatthours,2012,2
+2012-02-01,NUC,nuclear,63847.023,thousand megawatthours,2012,2
+2012-02-01,NG,natural gas,90609.78234,thousand megawatthours,2012,2
+2012-02-01,HYC,conventional hydroelectric,20283.9644,thousand megawatthours,2012,2
+2012-02-01,COL,"coal, excluding waste coal",113065.12202,thousand megawatthours,2012,2
+2012-01-01,HYC,conventional hydroelectric,23107.14392,thousand megawatthours,2012,1
+2012-01-01,COL,"coal, excluding waste coal",128099.66254,thousand megawatthours,2012,1
+2012-01-01,ALL,all fuels,339526.48011,thousand megawatthours,2012,1
+2012-01-01,WND,wind,13630.85627,thousand megawatthours,2012,1
+2012-01-01,SUN,solar,95.31986,thousand megawatthours,2012,1
+2012-01-01,NUC,nuclear,72381.186,thousand megawatthours,2012,1
+2012-01-01,NG,natural gas,90760.88378,thousand megawatthours,2012,1
+2011-12-01,HYC,conventional hydroelectric,23731.94371,thousand megawatthours,2011,12
+2011-12-01,COL,"coal, excluding waste coal",131995.5346,thousand megawatthours,2011,12
+2011-12-01,ALL,all fuels,335740.46276,thousand megawatthours,2011,12
+2011-12-01,WND,wind,10655.77473,thousand megawatthours,2011,12
+2011-12-01,SUN,solar,120.6536,thousand megawatthours,2011,12
+2011-12-01,NUC,nuclear,71837.372,thousand megawatthours,2011,12
+2011-12-01,NG,natural gas,86121.62582,thousand megawatthours,2011,12
+2011-11-01,SUN,solar,107.36985,thousand megawatthours,2011,11
+2011-11-01,NUC,nuclear,64473.88,thousand megawatthours,2011,11
+2011-11-01,NG,natural gas,75441.29818,thousand megawatthours,2011,11
+2011-11-01,HYC,conventional hydroelectric,20680.52743,thousand megawatthours,2011,11
+2011-11-01,COL,"coal, excluding waste coal",120446.556,thousand megawatthours,2011,11
+2011-11-01,ALL,all fuels,304102.15444,thousand megawatthours,2011,11
+2011-11-01,WND,wind,12438.55312,thousand megawatthours,2011,11
+2011-10-01,ALL,all fuels,308698.50358,thousand megawatthours,2011,10
+2011-10-01,WND,wind,10525.42896,thousand megawatthours,2011,10
+2011-10-01,SUN,solar,158.85995,thousand megawatthours,2011,10
+2011-10-01,NUC,nuclear,63336.97,thousand megawatthours,2011,10
+2011-10-01,NG,natural gas,78819.20708,thousand megawatthours,2011,10
+2011-10-01,HYC,conventional hydroelectric,19787.38961,thousand megawatthours,2011,10
+2011-10-01,COL,"coal, excluding waste coal",125663.62115,thousand megawatthours,2011,10
+2011-09-01,SUN,solar,185.71984,thousand megawatthours,2011,9
+2011-09-01,NUC,nuclear,66848.854,thousand megawatthours,2011,9
+2011-09-01,NG,natural gas,91739.07009,thousand megawatthours,2011,9
+2011-09-01,HYC,conventional hydroelectric,21377.59172,thousand megawatthours,2011,9
+2011-09-01,COL,"coal, excluding waste coal",139910.22604,thousand megawatthours,2011,9
+2011-09-01,ALL,all fuels,337931.3176,thousand megawatthours,2011,9
+2011-09-01,WND,wind,6869.0293,thousand megawatthours,2011,9
+2011-08-01,ALL,all fuels,406511.31471,thousand megawatthours,2011,8
+2011-08-01,WND,wind,7473.59402,thousand megawatthours,2011,8
+2011-08-01,SUN,solar,229.16273,thousand megawatthours,2011,8
+2011-08-01,NUC,nuclear,71338.566,thousand megawatthours,2011,8
+2011-08-01,NG,natural gas,119855.79257,thousand megawatthours,2011,8
+2011-08-01,HYC,conventional hydroelectric,25763.57824,thousand megawatthours,2011,8
+2011-08-01,COL,"coal, excluding waste coal",170195.53361,thousand megawatthours,2011,8
+2011-07-01,SUN,solar,191.10153,thousand megawatthours,2011,7
+2011-07-01,NUC,nuclear,72344.85,thousand megawatthours,2011,7
+2011-07-01,NG,natural gas,119623.59113,thousand megawatthours,2011,7
+2011-07-01,HYC,conventional hydroelectric,31284.63456,thousand megawatthours,2011,7
+2011-07-01,COL,"coal, excluding waste coal",175481.2279,thousand megawatthours,2011,7
+2011-07-01,ALL,all fuels,418692.75464,thousand megawatthours,2011,7
+2011-07-01,WND,wind,7488.62905,thousand megawatthours,2011,7
+2011-06-01,SUN,solar,222.77309,thousand megawatthours,2011,6
+2011-06-01,ALL,all fuels,367727.015,thousand megawatthours,2011,6
+2011-06-01,COL,"coal, excluding waste coal",156996.48067,thousand megawatthours,2011,6
+2011-06-01,NUC,nuclear,65270.134,thousand megawatthours,2011,6
+2011-06-01,NG,natural gas,90691.11156,thousand megawatthours,2011,6
+2011-06-01,HYC,conventional hydroelectric,32151.21433,thousand megawatthours,2011,6
+2011-06-01,WND,wind,10985.06912,thousand megawatthours,2011,6
+2011-05-01,ALL,all fuels,323628.23805,thousand megawatthours,2011,5
+2011-05-01,WND,wind,11772.16075,thousand megawatthours,2011,5
+2011-05-01,SUN,solar,190.66911,thousand megawatthours,2011,5
+2011-05-01,NUC,nuclear,57012.914,thousand megawatthours,2011,5
+2011-05-01,NG,natural gas,75242.79679,thousand megawatthours,2011,5
+2011-05-01,HYC,conventional hydroelectric,32586.92609,thousand megawatthours,2011,5
+2011-05-01,COL,"coal, excluding waste coal",136306.66536,thousand megawatthours,2011,5
+2011-04-01,ALL,all fuels,302400.72444,thousand megawatthours,2011,4
+2011-04-01,WND,wind,12421.65683,thousand megawatthours,2011,4
+2011-04-01,SUN,solar,164.00623,thousand megawatthours,2011,4
+2011-04-01,NUC,nuclear,54547.338,thousand megawatthours,2011,4
+2011-04-01,NG,natural gas,70028.99891,thousand megawatthours,2011,4
+2011-04-01,HYC,conventional hydroelectric,31194.3065,thousand megawatthours,2011,4
+2011-04-01,COL,"coal, excluding waste coal",123606.11702,thousand megawatthours,2011,4
+2011-03-01,NG,natural gas,65947.12043,thousand megawatthours,2011,3
+2011-03-01,HYC,conventional hydroelectric,31134.47075,thousand megawatthours,2011,3
+2011-03-01,COL,"coal, excluding waste coal",133828.04471,thousand megawatthours,2011,3
+2011-03-01,ALL,all fuels,318709.9409,thousand megawatthours,2011,3
+2011-03-01,WND,wind,10544.64605,thousand megawatthours,2011,3
+2011-03-01,SUN,solar,122.29961,thousand megawatthours,2011,3
+2011-03-01,NUC,nuclear,65661.598,thousand megawatthours,2011,3
+2011-02-01,COL,"coal, excluding waste coal",137346.09385,thousand megawatthours,2011,2
+2011-02-01,ALL,all fuels,313126.60705,thousand megawatthours,2011,2
+2011-02-01,WND,wind,10451.5619,thousand megawatthours,2011,2
+2011-02-01,SUN,solar,85.29854,thousand megawatthours,2011,2
+2011-02-01,NUC,nuclear,64789.078,thousand megawatthours,2011,2
+2011-02-01,NG,natural gas,65923.98289,thousand megawatthours,2011,2
+2011-02-01,HYC,conventional hydroelectric,24131.22605,thousand megawatthours,2011,2
+2011-01-01,ALL,all fuels,362871.89295,thousand megawatthours,2011,1
+2011-01-01,WND,wind,8550.4948,thousand megawatthours,2011,1
+2011-01-01,SUN,solar,39.78157,thousand megawatthours,2011,1
+2011-01-01,NUC,nuclear,72742.813,thousand megawatthours,2011,1
+2011-01-01,NG,natural gas,74254.33381,thousand megawatthours,2011,1
+2011-01-01,HYC,conventional hydroelectric,25531.09446,thousand megawatthours,2011,1
+2011-01-01,COL,"coal, excluding waste coal",169718.00408,thousand megawatthours,2011,1
+2010-12-01,ALL,all fuels,362119.08129,thousand megawatthours,2010,12
+2010-12-01,WND,wind,9059.29736,thousand megawatthours,2010,12
+2010-12-01,SUN,solar,44.40122,thousand megawatthours,2010,12
+2010-12-01,NUC,nuclear,73683.304,thousand megawatthours,2010,12
+2010-12-01,NG,natural gas,77573.32016,thousand megawatthours,2010,12
+2010-12-01,HYC,conventional hydroelectric,23169.07145,thousand megawatthours,2010,12
+2010-12-01,COL,"coal, excluding waste coal",166140.25988,thousand megawatthours,2010,12
+2010-11-01,COL,"coal, excluding waste coal",134173.63464,thousand megawatthours,2010,11
+2010-11-01,NUC,nuclear,62655.206,thousand megawatthours,2010,11
+2010-11-01,WND,wind,9747.6191,thousand megawatthours,2010,11
+2010-11-01,SUN,solar,76.79539,thousand megawatthours,2010,11
+2010-11-01,ALL,all fuels,306009.62912,thousand megawatthours,2010,11
+2010-11-01,NG,natural gas,69226.55984,thousand megawatthours,2010,11
+2010-11-01,HYC,conventional hydroelectric,19561.55003,thousand megawatthours,2010,11
+2010-10-01,COL,"coal, excluding waste coal",131359.79727,thousand megawatthours,2010,10
+2010-10-01,WND,wind,7943.80761,thousand megawatthours,2010,10
+2010-10-01,SUN,solar,75.43584,thousand megawatthours,2010,10
+2010-10-01,NUC,nuclear,62750.833,thousand megawatthours,2010,10
+2010-10-01,NG,natural gas,77738.33651,thousand megawatthours,2010,10
+2010-10-01,HYC,conventional hydroelectric,17682.97635,thousand megawatthours,2010,10
+2010-10-01,ALL,all fuels,307920.69056,thousand megawatthours,2010,10
+2010-09-01,ALL,all fuels,346045.17182,thousand megawatthours,2010,9
+2010-09-01,WND,wind,7105.5022,thousand megawatthours,2010,9
+2010-09-01,SUN,solar,137.58114,thousand megawatthours,2010,9
+2010-09-01,NUC,nuclear,69371.195,thousand megawatthours,2010,9
+2010-09-01,NG,natural gas,93004.17649,thousand megawatthours,2010,9
+2010-09-01,HYC,conventional hydroelectric,17265.20646,thousand megawatthours,2010,9
+2010-09-01,COL,"coal, excluding waste coal",147704.15026,thousand megawatthours,2010,9
+2010-08-01,SUN,solar,156.39274,thousand megawatthours,2010,8
+2010-08-01,NUC,nuclear,71574.103,thousand megawatthours,2010,8
+2010-08-01,NG,natural gas,121151.26856,thousand megawatthours,2010,8
+2010-08-01,HYC,conventional hydroelectric,20119.23218,thousand megawatthours,2010,8
+2010-08-01,COL,"coal, excluding waste coal",176545.72646,thousand megawatthours,2010,8
+2010-08-01,ALL,all fuels,408884.15537,thousand megawatthours,2010,8
+2010-08-01,WND,wind,6685.85505,thousand megawatthours,2010,8
+2010-07-01,WND,wind,6723.89118,thousand megawatthours,2010,7
+2010-07-01,HYC,conventional hydroelectric,24516.76133,thousand megawatthours,2010,7
+2010-07-01,COL,"coal, excluding waste coal",178389.96867,thousand megawatthours,2010,7
+2010-07-01,ALL,all fuels,409725.44035,thousand megawatthours,2010,7
+2010-07-01,SUN,solar,161.38151,thousand megawatthours,2010,7
+2010-07-01,NUC,nuclear,71913.468,thousand megawatthours,2010,7
+2010-07-01,NG,natural gas,114624.20192,thousand megawatthours,2010,7
+2010-06-01,SUN,solar,176.0529,thousand megawatthours,2010,6
+2010-06-01,COL,"coal, excluding waste coal",164321.16189,thousand megawatthours,2010,6
+2010-06-01,ALL,all fuels,375759.47838,thousand megawatthours,2010,6
+2010-06-01,NUC,nuclear,68301.32156,thousand megawatthours,2010,6
+2010-06-01,NG,natural gas,92268.43063,thousand megawatthours,2010,6
+2010-06-01,HYC,conventional hydroelectric,29853.82693,thousand megawatthours,2010,6
+2010-06-01,WND,wind,8049.02142,thousand megawatthours,2010,6
+2010-05-01,WND,wind,8697.52487,thousand megawatthours,2010,5
+2010-05-01,HYC,conventional hydroelectric,25079.21697,thousand megawatthours,2010,5
+2010-05-01,COL,"coal, excluding waste coal",142180.20958,thousand megawatthours,2010,5
+2010-05-01,ALL,all fuels,327936.49155,thousand megawatthours,2010,5
+2010-05-01,NUC,nuclear,66658.365,thousand megawatthours,2010,5
+2010-05-01,NG,natural gas,73665.43824,thousand megawatthours,2010,5
+2010-05-01,SUN,solar,153.17199,thousand megawatthours,2010,5
+2010-04-01,WND,wind,9764.45598,thousand megawatthours,2010,4
+2010-04-01,COL,"coal, excluding waste coal",125924.57402,thousand megawatthours,2010,4
+2010-04-01,ALL,all fuels,287800.22656,thousand megawatthours,2010,4
+2010-04-01,NUC,nuclear,57611.073,thousand megawatthours,2010,4
+2010-04-01,NG,natural gas,64644.025,thousand megawatthours,2010,4
+2010-04-01,HYC,conventional hydroelectric,19096.66257,thousand megawatthours,2010,4
+2010-04-01,SUN,solar,112.2794,thousand megawatthours,2010,4
+2010-03-01,ALL,all fuels,312167.64032,thousand megawatthours,2010,3
+2010-03-01,WND,wind,8589.07682,thousand megawatthours,2010,3
+2010-03-01,SUN,solar,75.9992,thousand megawatthours,2010,3
+2010-03-01,NUC,nuclear,64634.721,thousand megawatthours,2010,3
+2010-03-01,NG,natural gas,63430.66033,thousand megawatthours,2010,3
+2010-03-01,HYC,conventional hydroelectric,20885.6628,thousand megawatthours,2010,3
+2010-03-01,COL,"coal, excluding waste coal",143285.89309,thousand megawatthours,2010,3
+2010-02-01,WND,wind,5431.85793,thousand megawatthours,2010,2
+2010-02-01,ALL,all fuels,319734.72667,thousand megawatthours,2010,2
+2010-02-01,HYC,conventional hydroelectric,20589.82989,thousand megawatthours,2010,2
+2010-02-01,COL,"coal, excluding waste coal",152191.27038,thousand megawatthours,2010,2
+2010-02-01,NUC,nuclear,65245.37,thousand megawatthours,2010,2
+2010-02-01,NG,natural gas,66198.08,thousand megawatthours,2010,2
+2010-02-01,SUN,solar,32.82389,thousand megawatthours,2010,2
+2010-01-01,HYC,conventional hydroelectric,22383.07243,thousand megawatthours,2010,1
+2010-01-01,NUC,nuclear,72569.341,thousand megawatthours,2010,1
+2010-01-01,NG,natural gas,74172.73601,thousand megawatthours,2010,1
+2010-01-01,WND,wind,6854.33658,thousand megawatthours,2010,1
+2010-01-01,SUN,solar,9.86635,thousand megawatthours,2010,1
+2010-01-01,ALL,all fuels,360957.16695,thousand megawatthours,2010,1
+2010-01-01,COL,"coal, excluding waste coal",172155.71342,thousand megawatthours,2010,1
+2009-12-01,COL,"coal, excluding waste coal",165208.84858,thousand megawatthours,2009,12
+2009-12-01,NG,natural gas,71589.60705,thousand megawatthours,2009,12
+2009-12-01,HYC,conventional hydroelectric,24729.80834,thousand megawatthours,2009,12
+2009-12-01,ALL,all fuels,350507.29527,thousand megawatthours,2009,12
+2009-12-01,WND,wind,6906.05833,thousand megawatthours,2009,12
+2009-12-01,SUN,solar,21.20887,thousand megawatthours,2009,12
+2009-12-01,NUC,nuclear,70710.218,thousand megawatthours,2009,12
+2009-11-01,COL,"coal, excluding waste coal",135676.26404,thousand megawatthours,2009,11
+2009-11-01,ALL,all fuels,296634.66996,thousand megawatthours,2009,11
+2009-11-01,NUC,nuclear,59069.208,thousand megawatthours,2009,11
+2009-11-01,NG,natural gas,63285.13196,thousand megawatthours,2009,11
+2009-11-01,WND,wind,6875.18302,thousand megawatthours,2009,11
+2009-11-01,SUN,solar,40.40246,thousand megawatthours,2009,11
+2009-11-01,HYC,conventional hydroelectric,21007.70089,thousand megawatthours,2009,11
+2009-10-01,ALL,all fuels,307040.34065,thousand megawatthours,2009,10
+2009-10-01,NG,natural gas,72602.72548,thousand megawatthours,2009,10
+2009-10-01,COL,"coal, excluding waste coal",138830.21504,thousand megawatthours,2009,10
+2009-10-01,WND,wind,6813.62592,thousand megawatthours,2009,10
+2009-10-01,SUN,solar,68.10109,thousand megawatthours,2009,10
+2009-10-01,NUC,nuclear,58020.927,thousand megawatthours,2009,10
+2009-10-01,HYC,conventional hydroelectric,19691.06826,thousand megawatthours,2009,10
+2009-09-01,ALL,all fuels,327400.61189,thousand megawatthours,2009,9
+2009-09-01,NG,natural gas,92126.61784,thousand megawatthours,2009,9
+2009-09-01,WND,wind,4650.70788,thousand megawatthours,2009,9
+2009-09-01,SUN,solar,94.99416,thousand megawatthours,2009,9
+2009-09-01,NUC,nuclear,65751.794,thousand megawatthours,2009,9
+2009-09-01,HYC,conventional hydroelectric,17358.71392,thousand megawatthours,2009,9
+2009-09-01,COL,"coal, excluding waste coal",136043.01791,thousand megawatthours,2009,9
+2009-08-01,ALL,all fuels,381221.41693,thousand megawatthours,2009,8
+2009-08-01,NUC,nuclear,72244.597,thousand megawatthours,2009,8
+2009-08-01,NG,natural gas,109239.55406,thousand megawatthours,2009,8
+2009-08-01,COL,"coal, excluding waste coal",162109.88251,thousand megawatthours,2009,8
+2009-08-01,WND,wind,5464.47362,thousand megawatthours,2009,8
+2009-08-01,SUN,solar,116.29051,thousand megawatthours,2009,8
+2009-08-01,HYC,conventional hydroelectric,19580.41655,thousand megawatthours,2009,8
+2009-07-01,NUC,nuclear,72948.979,thousand megawatthours,2009,7
+2009-07-01,NG,natural gas,101893.83251,thousand megawatthours,2009,7
+2009-07-01,COL,"coal, excluding waste coal",157027.25473,thousand megawatthours,2009,7
+2009-07-01,ALL,all fuels,372542.22554,thousand megawatthours,2009,7
+2009-07-01,HYC,conventional hydroelectric,23384.74817,thousand megawatthours,2009,7
+2009-07-01,WND,wind,4954.94132,thousand megawatthours,2009,7
+2009-07-01,SUN,solar,121.18827,thousand megawatthours,2009,7
+2009-06-01,ALL,all fuels,347658.24126,thousand megawatthours,2009,6
+2009-06-01,WND,wind,5599.42191,thousand megawatthours,2009,6
+2009-06-01,SUN,solar,103.41256,thousand megawatthours,2009,6
+2009-06-01,NUC,nuclear,69734.736,thousand megawatthours,2009,6
+2009-06-01,NG,natural gas,84205.18154,thousand megawatthours,2009,6
+2009-06-01,COL,"coal, excluding waste coal",147009.24058,thousand megawatthours,2009,6
+2009-06-01,HYC,conventional hydroelectric,29233.39456,thousand megawatthours,2009,6
+2009-05-01,COL,"coal, excluding waste coal",130669.32109,thousand megawatthours,2009,5
+2009-05-01,SUN,solar,110.42463,thousand megawatthours,2009,5
+2009-05-01,NUC,nuclear,65395.452,thousand megawatthours,2009,5
+2009-05-01,NG,natural gas,68145.64662,thousand megawatthours,2009,5
+2009-05-01,HYC,conventional hydroelectric,29559.65512,thousand megawatthours,2009,5
+2009-05-01,ALL,all fuels,311305.87215,thousand megawatthours,2009,5
+2009-05-01,WND,wind,6261.9611,thousand megawatthours,2009,5
+2009-04-01,WND,wind,7457.69602,thousand megawatthours,2009,4
+2009-04-01,NUC,nuclear,59408.407,thousand megawatthours,2009,4
+2009-04-01,HYC,conventional hydroelectric,25769.8074,thousand megawatthours,2009,4
+2009-04-01,ALL,all fuels,289537.25513,thousand megawatthours,2009,4
+2009-04-01,COL,"coal, excluding waste coal",124958.37452,thousand megawatthours,2009,4
+2009-04-01,NG,natural gas,61158.67362,thousand megawatthours,2009,4
+2009-04-01,SUN,solar,99.41608,thousand megawatthours,2009,4
+2009-03-01,ALL,all fuels,310602.96381,thousand megawatthours,2009,3
+2009-03-01,WND,wind,7099.06292,thousand megawatthours,2009,3
+2009-03-01,SUN,solar,78.10689,thousand megawatthours,2009,3
+2009-03-01,HYC,conventional hydroelectric,21827.45353,thousand megawatthours,2009,3
+2009-03-01,NUC,nuclear,67240.567,thousand megawatthours,2009,3
+2009-03-01,NG,natural gas,68202.74331,thousand megawatthours,2009,3
+2009-03-01,COL,"coal, excluding waste coal",134482.16902,thousand megawatthours,2009,3
+2009-02-01,ALL,all fuels,300887.39769,thousand megawatthours,2009,2
+2009-02-01,WND,wind,5852.17501,thousand megawatthours,2009,2
+2009-02-01,NUC,nuclear,64227.211,thousand megawatthours,2009,2
+2009-02-01,NG,natural gas,62138.85332,thousand megawatthours,2009,2
+2009-02-01,HYC,conventional hydroelectric,17812.03175,thousand megawatthours,2009,2
+2009-02-01,SUN,solar,30.44374,thousand megawatthours,2009,2
+2009-02-01,COL,"coal, excluding waste coal",140032.51217,thousand megawatthours,2009,2
+2009-01-01,WND,wind,5950.82465,thousand megawatthours,2009,1
+2009-01-01,NUC,nuclear,74102.489,thousand megawatthours,2009,1
+2009-01-01,NG,natural gas,66390.11321,thousand megawatthours,2009,1
+2009-01-01,HYC,conventional hydroelectric,23490.29569,thousand megawatthours,2009,1
+2009-01-01,SUN,solar,7.19014,thousand megawatthours,2009,1
+2009-01-01,COL,"coal, excluding waste coal",170720.93168,thousand megawatthours,2009,1
+2009-01-01,ALL,all fuels,354992.63621,thousand megawatthours,2009,1
+2008-12-01,HYC,conventional hydroelectric,20861.49062,thousand megawatthours,2008,12
+2008-12-01,SUN,solar,18.68738,thousand megawatthours,2008,12
+2008-12-01,COL,"coal, excluding waste coal",166541.30874,thousand megawatthours,2008,12
+2008-12-01,ALL,all fuels,343898.25447,thousand megawatthours,2008,12
+2008-12-01,WND,wind,6615.89854,thousand megawatthours,2008,12
+2008-12-01,NUC,nuclear,72931.328,thousand megawatthours,2008,12
+2008-12-01,NG,natural gas,64363.64603,thousand megawatthours,2008,12
+2008-11-01,NG,natural gas,61454.19852,thousand megawatthours,2008,11
+2008-11-01,WND,wind,4993.64564,thousand megawatthours,2008,11
+2008-11-01,SUN,solar,28.8477,thousand megawatthours,2008,11
+2008-11-01,NUC,nuclear,63408.145,thousand megawatthours,2008,11
+2008-11-01,HYC,conventional hydroelectric,15667.93401,thousand megawatthours,2008,11
+2008-11-01,COL,"coal, excluding waste coal",153153.0076,thousand megawatthours,2008,11
+2008-11-01,ALL,all fuels,310046.2412,thousand megawatthours,2008,11
+2008-10-01,HYC,conventional hydroelectric,15469.94246,thousand megawatthours,2008,10
+2008-10-01,WND,wind,4756.40094,thousand megawatthours,2008,10
+2008-10-01,SUN,solar,60.24348,thousand megawatthours,2008,10
+2008-10-01,COL,"coal, excluding waste coal",150715.58835,thousand megawatthours,2008,10
+2008-10-01,ALL,all fuels,318547.34311,thousand megawatthours,2008,10
+2008-10-01,NUC,nuclear,62820.353,thousand megawatthours,2008,10
+2008-10-01,NG,natural gas,73283.33855,thousand megawatthours,2008,10
+2008-09-01,COL,"coal, excluding waste coal",160204.30251,thousand megawatthours,2008,9
+2008-09-01,WND,wind,3111.45182,thousand megawatthours,2008,9
+2008-09-01,SUN,solar,92.59686,thousand megawatthours,2008,9
+2008-09-01,NUC,nuclear,67053.867,thousand megawatthours,2008,9
+2008-09-01,NG,natural gas,79136.02998,thousand megawatthours,2008,9
+2008-09-01,HYC,conventional hydroelectric,16178.19232,thousand megawatthours,2008,9
+2008-09-01,ALL,all fuels,338056.12999,thousand megawatthours,2008,9
+2008-08-01,WND,wind,3264.40615,thousand megawatthours,2008,8
+2008-08-01,NG,natural gas,99673.49348,thousand megawatthours,2008,8
+2008-08-01,COL,"coal, excluding waste coal",179415.64922,thousand megawatthours,2008,8
+2008-08-01,SUN,solar,105.28212,thousand megawatthours,2008,8
+2008-08-01,NUC,nuclear,72617.066,thousand megawatthours,2008,8
+2008-08-01,HYC,conventional hydroelectric,21229.2774,thousand megawatthours,2008,8
+2008-08-01,ALL,all fuels,388986.71877,thousand megawatthours,2008,8
+2008-07-01,COL,"coal, excluding waste coal",185508.15246,thousand megawatthours,2008,7
+2008-07-01,HYC,conventional hydroelectric,25555.08636,thousand megawatthours,2008,7
+2008-07-01,WND,wind,4008.40059,thousand megawatthours,2008,7
+2008-07-01,SUN,solar,110.87812,thousand megawatthours,2008,7
+2008-07-01,ALL,all fuels,402900.33624,thousand megawatthours,2008,7
+2008-07-01,NUC,nuclear,74318.27,thousand megawatthours,2008,7
+2008-07-01,NG,natural gas,100320.87805,thousand megawatthours,2008,7
+2008-06-01,NUC,nuclear,70319.366,thousand megawatthours,2008,6
+2008-06-01,WND,wind,5140.3764,thousand megawatthours,2008,6
+2008-06-01,SUN,solar,128.16363,thousand megawatthours,2008,6
+2008-06-01,HYC,conventional hydroelectric,29177.42712,thousand megawatthours,2008,6
+2008-06-01,ALL,all fuels,373109.02691,thousand megawatthours,2008,6
+2008-06-01,NG,natural gas,84619.97663,thousand megawatthours,2008,6
+2008-06-01,COL,"coal, excluding waste coal",169905.92829,thousand megawatthours,2008,6
+2008-05-01,NG,natural gas,62270.44712,thousand megawatthours,2008,5
+2008-05-01,NUC,nuclear,64825.901,thousand megawatthours,2008,5
+2008-05-01,HYC,conventional hydroelectric,27221.14742,thousand megawatthours,2008,5
+2008-05-01,COL,"coal, excluding waste coal",153790.15463,thousand megawatthours,2008,5
+2008-05-01,ALL,all fuels,325244.80192,thousand megawatthours,2008,5
+2008-05-01,WND,wind,5340.28392,thousand megawatthours,2008,5
+2008-05-01,SUN,solar,98.74413,thousand megawatthours,2008,5
+2008-04-01,NG,natural gas,63046.09796,thousand megawatthours,2008,4
+2008-04-01,WND,wind,5225.28203,thousand megawatthours,2008,4
+2008-04-01,SUN,solar,94.14084,thousand megawatthours,2008,4
+2008-04-01,HYC,conventional hydroelectric,22233.93205,thousand megawatthours,2008,4
+2008-04-01,COL,"coal, excluding waste coal",145962.73767,thousand megawatthours,2008,4
+2008-04-01,ALL,all fuels,305865.03122,thousand megawatthours,2008,4
+2008-04-01,NUC,nuclear,57332.716,thousand megawatthours,2008,4
+2008-03-01,NUC,nuclear,64716.468,thousand megawatthours,2008,3
+2008-03-01,COL,"coal, excluding waste coal",159806.26698,thousand megawatthours,2008,3
+2008-03-01,ALL,all fuels,324629.84959,thousand megawatthours,2008,3
+2008-03-01,NG,natural gas,62170.57985,thousand megawatthours,2008,3
+2008-03-01,HYC,conventional hydroelectric,21668.93847,thousand megawatthours,2008,3
+2008-03-01,WND,wind,4782.01995,thousand megawatthours,2008,3
+2008-03-01,SUN,solar,74.59967,thousand megawatthours,2008,3
+2008-02-01,NUC,nuclear,65130.385,thousand megawatthours,2008,2
+2008-02-01,WND,wind,3851.7487,thousand megawatthours,2008,2
+2008-02-01,SUN,solar,35.8416,thousand megawatthours,2008,2
+2008-02-01,NG,natural gas,60042.0118,thousand megawatthours,2008,2
+2008-02-01,COL,"coal, excluding waste coal",165543.8068,thousand megawatthours,2008,2
+2008-02-01,ALL,all fuels,325105.5971,thousand megawatthours,2008,2
+2008-02-01,HYC,conventional hydroelectric,18788.8861,thousand megawatthours,2008,2
+2008-01-01,ALL,all fuels,362998.42904,thousand megawatthours,2008,1
+2008-01-01,HYC,conventional hydroelectric,20779.13078,thousand megawatthours,2008,1
+2008-01-01,WND,wind,4273.1854,thousand megawatthours,2008,1
+2008-01-01,SUN,solar,16.28927,thousand megawatthours,2008,1
+2008-01-01,NUC,nuclear,70734.57,thousand megawatthours,2008,1
+2008-01-01,NG,natural gas,72599.9011,thousand megawatthours,2008,1
+2008-01-01,COL,"coal, excluding waste coal",181621.8177,thousand megawatthours,2008,1
+2007-12-01,ALL,all fuels,346290.33052,thousand megawatthours,2007,12
+2007-12-01,NUC,nuclear,71982.726,thousand megawatthours,2007,12
+2007-12-01,NG,natural gas,66807.82797,thousand megawatthours,2007,12
+2007-12-01,COL,"coal, excluding waste coal",172628.38291,thousand megawatthours,2007,12
+2007-12-01,WND,wind,3490.23188,thousand megawatthours,2007,12
+2007-12-01,SUN,solar,5.40157,thousand megawatthours,2007,12
+2007-12-01,HYC,conventional hydroelectric,18341.67452,thousand megawatthours,2007,12
+2007-11-01,SUN,solar,24.30171,thousand megawatthours,2007,11
+2007-11-01,HYC,conventional hydroelectric,15682.053,thousand megawatthours,2007,11
+2007-11-01,WND,wind,3095.03643,thousand megawatthours,2007,11
+2007-11-01,COL,"coal, excluding waste coal",158201.28089,thousand megawatthours,2007,11
+2007-11-01,ALL,all fuels,314102.5426,thousand megawatthours,2007,11
+2007-11-01,NUC,nuclear,64899.278,thousand megawatthours,2007,11
+2007-11-01,NG,natural gas,60636.79925,thousand megawatthours,2007,11
+2007-10-01,NG,natural gas,78358.02381,thousand megawatthours,2007,10
+2007-10-01,NUC,nuclear,61689.542,thousand megawatthours,2007,10
+2007-10-01,HYC,conventional hydroelectric,14796.43375,thousand megawatthours,2007,10
+2007-10-01,COL,"coal, excluding waste coal",161062.15039,thousand megawatthours,2007,10
+2007-10-01,ALL,all fuels,332615.41638,thousand megawatthours,2007,10
+2007-10-01,WND,wind,3376.54028,thousand megawatthours,2007,10
+2007-10-01,SUN,solar,49.23269,thousand megawatthours,2007,10
+2007-09-01,COL,"coal, excluding waste coal",168258.2724,thousand megawatthours,2007,9
+2007-09-01,WND,wind,2866.72155,thousand megawatthours,2007,9
+2007-09-01,SUN,solar,68.21225,thousand megawatthours,2007,9
+2007-09-01,HYC,conventional hydroelectric,14742.53418,thousand megawatthours,2007,9
+2007-09-01,ALL,all fuels,355393.91186,thousand megawatthours,2007,9
+2007-09-01,NUC,nuclear,67578.578,thousand megawatthours,2007,9
+2007-09-01,NG,natural gas,88531.61471,thousand megawatthours,2007,9
+2007-08-01,HYC,conventional hydroelectric,19940.55104,thousand megawatthours,2007,8
+2007-08-01,SUN,solar,75.16342,thousand megawatthours,2007,8
+2007-08-01,WND,wind,2699.36469,thousand megawatthours,2007,8
+2007-08-01,COL,"coal, excluding waste coal",188906.82252,thousand megawatthours,2007,8
+2007-08-01,ALL,all fuels,421796.65927,thousand megawatthours,2007,8
+2007-08-01,NUC,nuclear,72750.91,thousand megawatthours,2007,8
+2007-08-01,NG,natural gas,121338.42663,thousand megawatthours,2007,8
+2007-07-01,ALL,all fuels,393226.43225,thousand megawatthours,2007,7
+2007-07-01,WND,wind,2158.37244,thousand megawatthours,2007,7
+2007-07-01,SUN,solar,85.79293,thousand megawatthours,2007,7
+2007-07-01,NUC,nuclear,72738.535,thousand megawatthours,2007,7
+2007-07-01,NG,natural gas,97482.67572,thousand megawatthours,2007,7
+2007-07-01,HYC,conventional hydroelectric,22477.76053,thousand megawatthours,2007,7
+2007-07-01,COL,"coal, excluding waste coal",183844.10562,thousand megawatthours,2007,7
+2007-06-01,SUN,solar,84.45828,thousand megawatthours,2007,6
+2007-06-01,COL,"coal, excluding waste coal",172332.91644,thousand megawatthours,2007,6
+2007-06-01,NUC,nuclear,68923.074,thousand megawatthours,2007,6
+2007-06-01,NG,natural gas,81511.45079,thousand megawatthours,2007,6
+2007-06-01,HYC,conventional hydroelectric,22816.60812,thousand megawatthours,2007,6
+2007-06-01,ALL,all fuels,362754.87722,thousand megawatthours,2007,6
+2007-06-01,WND,wind,2620.41645,thousand megawatthours,2007,6
+2007-05-01,COL,"coal, excluding waste coal",156551.35356,thousand megawatthours,2007,5
+2007-05-01,WND,wind,2952.34063,thousand megawatthours,2007,5
+2007-05-01,SUN,solar,84.19176,thousand megawatthours,2007,5
+2007-05-01,NUC,nuclear,65024.555,thousand megawatthours,2007,5
+2007-05-01,NG,natural gas,66469.7005,thousand megawatthours,2007,5
+2007-05-01,ALL,all fuels,330202.75802,thousand megawatthours,2007,5
+2007-05-01,HYC,conventional hydroelectric,26046.97643,thousand megawatthours,2007,5
+2007-04-01,COL,"coal, excluding waste coal",145203.58924,thousand megawatthours,2007,4
+2007-04-01,HYC,conventional hydroelectric,23890.58301,thousand megawatthours,2007,4
+2007-04-01,ALL,all fuels,303129.0636,thousand megawatthours,2007,4
+2007-04-01,WND,wind,3171.70315,thousand megawatthours,2007,4
+2007-04-01,SUN,solar,54.46434,thousand megawatthours,2007,4
+2007-04-01,NUC,nuclear,57301.424,thousand megawatthours,2007,4
+2007-04-01,NG,natural gas,60152.84758,thousand megawatthours,2007,4
+2007-03-01,ALL,all fuels,320471.24253,thousand megawatthours,2007,3
+2007-03-01,COL,"coal, excluding waste coal",158626.77218,thousand megawatthours,2007,3
+2007-03-01,WND,wind,3047.09243,thousand megawatthours,2007,3
+2007-03-01,SUN,solar,48.48795,thousand megawatthours,2007,3
+2007-03-01,NUC,nuclear,64305.153,thousand megawatthours,2007,3
+2007-03-01,NG,natural gas,56203.82094,thousand megawatthours,2007,3
+2007-03-01,HYC,conventional hydroelectric,24163.45595,thousand megawatthours,2007,3
+2007-02-01,SUN,solar,19.24445,thousand megawatthours,2007,2
+2007-02-01,HYC,conventional hydroelectric,18566.63325,thousand megawatthours,2007,2
+2007-02-01,ALL,all fuels,323230.39483,thousand megawatthours,2007,2
+2007-02-01,WND,wind,2519.79285,thousand megawatthours,2007,2
+2007-02-01,NUC,nuclear,65224.794,thousand megawatthours,2007,2
+2007-02-01,NG,natural gas,57622.07125,thousand megawatthours,2007,2
+2007-02-01,COL,"coal, excluding waste coal",162633.76327,thousand megawatthours,2007,2
+2007-01-01,COL,"coal, excluding waste coal",174845.2796,thousand megawatthours,2007,1
+2007-01-01,SUN,solar,12.84165,thousand megawatthours,2007,1
+2007-01-01,HYC,conventional hydroelectric,26044.71053,thousand megawatthours,2007,1
+2007-01-01,ALL,all fuels,353531.09477,thousand megawatthours,2007,1
+2007-01-01,WND,wind,2452.31464,thousand megawatthours,2007,1
+2007-01-01,NUC,nuclear,74006.184,thousand megawatthours,2007,1
+2007-01-01,NG,natural gas,61474.53193,thousand megawatthours,2007,1
+2006-12-01,HYC,conventional hydroelectric,21595.95122,thousand megawatthours,2006,12
+2006-12-01,WND,wind,2471.68958,thousand megawatthours,2006,12
+2006-12-01,SUN,solar,2.71328,thousand megawatthours,2006,12
+2006-12-01,NUC,nuclear,70489.681,thousand megawatthours,2006,12
+2006-12-01,NG,natural gas,56128.18599,thousand megawatthours,2006,12
+2006-12-01,COL,"coal, excluding waste coal",172337.69658,thousand megawatthours,2006,12
+2006-12-01,ALL,all fuels,336283.2459,thousand megawatthours,2006,12
+2006-11-01,ALL,all fuels,309158.82642,thousand megawatthours,2006,11
+2006-11-01,WND,wind,2540.48864,thousand megawatthours,2006,11
+2006-11-01,SUN,solar,15.68648,thousand megawatthours,2006,11
+2006-11-01,NUC,nuclear,61392.321,thousand megawatthours,2006,11
+2006-11-01,NG,natural gas,53439.69272,thousand megawatthours,2006,11
+2006-11-01,COL,"coal, excluding waste coal",158284.14854,thousand megawatthours,2006,11
+2006-11-01,HYC,conventional hydroelectric,20271.72257,thousand megawatthours,2006,11
+2006-10-01,COL,"coal, excluding waste coal",160190.58585,thousand megawatthours,2006,10
+2006-10-01,WND,wind,2442.12988,thousand megawatthours,2006,10
+2006-10-01,NUC,nuclear,57509.306,thousand megawatthours,2006,10
+2006-10-01,ALL,all fuels,321567.09131,thousand megawatthours,2006,10
+2006-10-01,SUN,solar,32.28346,thousand megawatthours,2006,10
+2006-10-01,NG,natural gas,70640.03895,thousand megawatthours,2006,10
+2006-10-01,HYC,conventional hydroelectric,17055.17699,thousand megawatthours,2006,10
+2006-09-01,WND,wind,1879.14378,thousand megawatthours,2006,9
+2006-09-01,SUN,solar,53.99022,thousand megawatthours,2006,9
+2006-09-01,HYC,conventional hydroelectric,17201.46086,thousand megawatthours,2006,9
+2006-09-01,COL,"coal, excluding waste coal",160492.64655,thousand megawatthours,2006,9
+2006-09-01,ALL,all fuels,332055.32084,thousand megawatthours,2006,9
+2006-09-01,NUC,nuclear,66642.327,thousand megawatthours,2006,9
+2006-09-01,NG,natural gas,72673.34798,thousand megawatthours,2006,9
+2006-08-01,COL,"coal, excluding waste coal",188125.23575,thousand megawatthours,2006,8
+2006-08-01,HYC,conventional hydroelectric,21728.3537,thousand megawatthours,2006,8
+2006-08-01,ALL,all fuels,407762.53636,thousand megawatthours,2006,8
+2006-08-01,WND,wind,1655.18688,thousand megawatthours,2006,8
+2006-08-01,SUN,solar,82.99316,thousand megawatthours,2006,8
+2006-08-01,NUC,nuclear,72016.095,thousand megawatthours,2006,8
+2006-08-01,NG,natural gas,106591.66595,thousand megawatthours,2006,8
+2006-07-01,ALL,all fuels,410420.79333,thousand megawatthours,2006,7
+2006-07-01,WND,wind,1955.06423,thousand megawatthours,2006,7
+2006-07-01,SUN,solar,61.65591,thousand megawatthours,2006,7
+2006-07-01,COL,"coal, excluding waste coal",186552.22817,thousand megawatthours,2006,7
+2006-07-01,NUC,nuclear,72186.494,thousand megawatthours,2006,7
+2006-07-01,NG,natural gas,108093.51438,thousand megawatthours,2006,7
+2006-07-01,HYC,conventional hydroelectric,25439.39237,thousand megawatthours,2006,7
+2006-06-01,HYC,conventional hydroelectric,29757.28409,thousand megawatthours,2006,6
+2006-06-01,WND,wind,2051.76563,thousand megawatthours,2006,6
+2006-06-01,SUN,solar,69.70207,thousand megawatthours,2006,6
+2006-06-01,NUC,nuclear,68391.472,thousand megawatthours,2006,6
+2006-06-01,NG,natural gas,81060.20993,thousand megawatthours,2006,6
+2006-06-01,COL,"coal, excluding waste coal",168523.81489,thousand megawatthours,2006,6
+2006-06-01,ALL,all fuels,364259.79756,thousand megawatthours,2006,6
+2006-05-01,WND,wind,2458.6826,thousand megawatthours,2006,5
+2006-05-01,COL,"coal, excluding waste coal",156036.07314,thousand megawatthours,2006,5
+2006-05-01,SUN,solar,70.73512,thousand megawatthours,2006,5
+2006-05-01,NUC,nuclear,62775.701,thousand megawatthours,2006,5
+2006-05-01,NG,natural gas,65585.60534,thousand megawatthours,2006,5
+2006-05-01,HYC,conventional hydroelectric,30818.44294,thousand megawatthours,2006,5
+2006-05-01,ALL,all fuels,330615.57003,thousand megawatthours,2006,5
+2006-04-01,COL,"coal, excluding waste coal",140334.44475,thousand megawatthours,2006,4
+2006-04-01,HYC,conventional hydroelectric,28555.68297,thousand megawatthours,2006,4
+2006-04-01,ALL,all fuels,297858.07754,thousand megawatthours,2006,4
+2006-04-01,WND,wind,2471.76225,thousand megawatthours,2006,4
+2006-04-01,SUN,solar,52.07432,thousand megawatthours,2006,4
+2006-04-01,NUC,nuclear,57567.204,thousand megawatthours,2006,4
+2006-04-01,NG,natural gas,56090.85628,thousand megawatthours,2006,4
+2006-03-01,ALL,all fuels,318729.79961,thousand megawatthours,2006,3
+2006-03-01,HYC,conventional hydroelectric,24624.60881,thousand megawatthours,2006,3
+2006-03-01,WND,wind,2358.63174,thousand megawatthours,2006,3
+2006-03-01,SUN,solar,33.40385,thousand megawatthours,2006,3
+2006-03-01,NUC,nuclear,63720.849,thousand megawatthours,2006,3
+2006-03-01,NG,natural gas,54921.74189,thousand megawatthours,2006,3
+2006-03-01,COL,"coal, excluding waste coal",160153.56238,thousand megawatthours,2006,3
+2006-02-01,COL,"coal, excluding waste coal",157579.2663,thousand megawatthours,2006,2
+2006-02-01,HYC,conventional hydroelectric,24761.68318,thousand megawatthours,2006,2
+2006-02-01,ALL,all fuels,307333.43003,thousand megawatthours,2006,2
+2006-02-01,WND,wind,1921.95844,thousand megawatthours,2006,2
+2006-02-01,SUN,solar,19.53284,thousand megawatthours,2006,2
+2006-02-01,NUC,nuclear,62615.654,thousand megawatthours,2006,2
+2006-02-01,NG,natural gas,47408.9894,thousand megawatthours,2006,2
+2006-01-01,ALL,all fuels,328657.73849,thousand megawatthours,2006,1
+2006-01-01,NG,natural gas,43806.92078,thousand megawatthours,2006,1
+2006-01-01,WND,wind,2382.63335,thousand megawatthours,2006,1
+2006-01-01,SUN,solar,12.9353,thousand megawatthours,2006,1
+2006-01-01,NUC,nuclear,71911.532,thousand megawatthours,2006,1
+2006-01-01,HYC,conventional hydroelectric,27436.65597,thousand megawatthours,2006,1
+2006-01-01,COL,"coal, excluding waste coal",168008.80428,thousand megawatthours,2006,1
+2005-12-01,ALL,all fuels,348101.07055,thousand megawatthours,2005,12
+2005-12-01,COL,"coal, excluding waste coal",176768.77488,thousand megawatthours,2005,12
+2005-12-01,WND,wind,1827.81389,thousand megawatthours,2005,12
+2005-12-01,SUN,solar,2.79342,thousand megawatthours,2005,12
+2005-12-01,NG,natural gas,53992.60122,thousand megawatthours,2005,12
+2005-12-01,HYC,conventional hydroelectric,22141.15675,thousand megawatthours,2005,12
+2005-12-01,NUC,nuclear,71735.067,thousand megawatthours,2005,12
+2005-11-01,NG,natural gas,49440.22594,thousand megawatthours,2005,11
+2005-11-01,COL,"coal, excluding waste coal",157966.11657,thousand megawatthours,2005,11
+2005-11-01,ALL,all fuels,306115.23623,thousand megawatthours,2005,11
+2005-11-01,SUN,solar,12.7552,thousand megawatthours,2005,11
+2005-11-01,HYC,conventional hydroelectric,19352.66779,thousand megawatthours,2005,11
+2005-11-01,WND,wind,1609.69148,thousand megawatthours,2005,11
+2005-11-01,NUC,nuclear,62912.709,thousand megawatthours,2005,11
+2005-10-01,HYC,conventional hydroelectric,18006.36026,thousand megawatthours,2005,10
+2005-10-01,SUN,solar,37.66515,thousand megawatthours,2005,10
+2005-10-01,COL,"coal, excluding waste coal",161410.17874,thousand megawatthours,2005,10
+2005-10-01,ALL,all fuels,316397.92361,thousand megawatthours,2005,10
+2005-10-01,WND,wind,1446.18982,thousand megawatthours,2005,10
+2005-10-01,NUC,nuclear,61235.597,thousand megawatthours,2005,10
+2005-10-01,NG,natural gas,55940.88089,thousand megawatthours,2005,10
+2005-09-01,ALL,all fuels,350217.80051,thousand megawatthours,2005,9
+2005-09-01,WND,wind,1468.34696,thousand megawatthours,2005,9
+2005-09-01,SUN,solar,61.1077,thousand megawatthours,2005,9
+2005-09-01,NUC,nuclear,66738.979,thousand megawatthours,2005,9
+2005-09-01,HYC,conventional hydroelectric,17363.68401,thousand megawatthours,2005,9
+2005-09-01,COL,"coal, excluding waste coal",170515.24141,thousand megawatthours,2005,9
+2005-09-01,NG,natural gas,73355.48269,thousand megawatthours,2005,9
+2005-08-01,ALL,all fuels,404940.68107,thousand megawatthours,2005,8
+2005-08-01,WND,wind,1138.03152,thousand megawatthours,2005,8
+2005-08-01,NUC,nuclear,71381.55,thousand megawatthours,2005,8
+2005-08-01,NG,natural gas,100786.65435,thousand megawatthours,2005,8
+2005-08-01,HYC,conventional hydroelectric,21565.67882,thousand megawatthours,2005,8
+2005-08-01,SUN,solar,75.84548,thousand megawatthours,2005,8
+2005-08-01,COL,"coal, excluding waste coal",186331.04606,thousand megawatthours,2005,8
+2005-07-01,ALL,all fuels,402273.84646,thousand megawatthours,2005,7
+2005-07-01,WND,wind,1420.94183,thousand megawatthours,2005,7
+2005-07-01,SUN,solar,72.32901,thousand megawatthours,2005,7
+2005-07-01,NG,natural gas,96819.41031,thousand megawatthours,2005,7
+2005-07-01,NUC,nuclear,71070.011,thousand megawatthours,2005,7
+2005-07-01,HYC,conventional hydroelectric,25956.84152,thousand megawatthours,2005,7
+2005-07-01,COL,"coal, excluding waste coal",184832.31429,thousand megawatthours,2005,7
+2005-06-01,NUC,nuclear,66144.275,thousand megawatthours,2005,6
+2005-06-01,SUN,solar,88.47625,thousand megawatthours,2005,6
+2005-06-01,WND,wind,1796.92435,thousand megawatthours,2005,6
+2005-06-01,HYC,conventional hydroelectric,26782.98993,thousand megawatthours,2005,6
+2005-06-01,ALL,all fuels,363671.63602,thousand megawatthours,2005,6
+2005-06-01,COL,"coal, excluding waste coal",173826.49816,thousand megawatthours,2005,6
+2005-06-01,NG,natural gas,75635.49254,thousand megawatthours,2005,6
+2005-05-01,ALL,all fuels,315062.10994,thousand megawatthours,2005,5
+2005-05-01,NG,natural gas,54826.00402,thousand megawatthours,2005,5
+2005-05-01,WND,wind,1746.42955,thousand megawatthours,2005,5
+2005-05-01,SUN,solar,81.15271,thousand megawatthours,2005,5
+2005-05-01,NUC,nuclear,62970.464,thousand megawatthours,2005,5
+2005-05-01,HYC,conventional hydroelectric,27278.51096,thousand megawatthours,2005,5
+2005-05-01,COL,"coal, excluding waste coal",152937.96571,thousand megawatthours,2005,5
+2005-04-01,ALL,all fuels,289562.39987,thousand megawatthours,2005,4
+2005-04-01,HYC,conventional hydroelectric,23058.35863,thousand megawatthours,2005,4
+2005-04-01,WND,wind,1697.5037,thousand megawatthours,2005,4
+2005-04-01,SUN,solar,58.26325,thousand megawatthours,2005,4
+2005-04-01,NUC,nuclear,55484.01,thousand megawatthours,2005,4
+2005-04-01,NG,natural gas,52016.28598,thousand megawatthours,2005,4
+2005-04-01,COL,"coal, excluding waste coal",142171.89204,thousand megawatthours,2005,4
+2005-03-01,SUN,solar,38.15709,thousand megawatthours,2005,3
+2005-03-01,NUC,nuclear,61538.53,thousand megawatthours,2005,3
+2005-03-01,NG,natural gas,51896.97271,thousand megawatthours,2005,3
+2005-03-01,COL,"coal, excluding waste coal",162535.2932,thousand megawatthours,2005,3
+2005-03-01,HYC,conventional hydroelectric,22936.06749,thousand megawatthours,2005,3
+2005-03-01,ALL,all fuels,317458.27645,thousand megawatthours,2005,3
+2005-03-01,WND,wind,1560.62565,thousand megawatthours,2005,3
+2005-02-01,SUN,solar,13.08154,thousand megawatthours,2005,2
+2005-02-01,HYC,conventional hydroelectric,21606.77394,thousand megawatthours,2005,2
+2005-02-01,ALL,all fuels,298500.31558,thousand megawatthours,2005,2
+2005-02-01,NUC,nuclear,60946.934,thousand megawatthours,2005,2
+2005-02-01,NG,natural gas,44912.61665,thousand megawatthours,2005,2
+2005-02-01,COL,"coal, excluding waste coal",154853.27015,thousand megawatthours,2005,2
+2005-02-01,WND,wind,966.48178,thousand megawatthours,2005,2
+2005-01-01,ALL,all fuels,343121.45336,thousand megawatthours,2005,1
+2005-01-01,NUC,nuclear,69828.239,thousand megawatthours,2005,1
+2005-01-01,NG,natural gas,51337.62707,thousand megawatthours,2005,1
+2005-01-01,WND,wind,1131.5685,thousand megawatthours,2005,1
+2005-01-01,SUN,solar,8.66754,thousand megawatthours,2005,1
+2005-01-01,HYC,conventional hydroelectric,24272.16485,thousand megawatthours,2005,1
+2005-01-01,COL,"coal, excluding waste coal",176089.77135,thousand megawatthours,2005,1
+2004-12-01,NUC,nuclear,68616.627,thousand megawatthours,2004,12
+2004-12-01,COL,"coal, excluding waste coal",175172.49187,thousand megawatthours,2004,12
+2004-12-01,ALL,all fuels,341947.96342,thousand megawatthours,2004,12
+2004-12-01,WND,wind,1172.00867,thousand megawatthours,2004,12
+2004-12-01,SUN,solar,7.75776,thousand megawatthours,2004,12
+2004-12-01,NG,natural gas,51309.56547,thousand megawatthours,2004,12
+2004-12-01,HYC,conventional hydroelectric,26210.71849,thousand megawatthours,2004,12
+2004-11-01,SUN,solar,15.34157,thousand megawatthours,2004,11
+2004-11-01,ALL,all fuels,302101.2562,thousand megawatthours,2004,11
+2004-11-01,COL,"coal, excluding waste coal",156147.2781,thousand megawatthours,2004,11
+2004-11-01,NUC,nuclear,58940.863,thousand megawatthours,2004,11
+2004-11-01,NG,natural gas,49693.03398,thousand megawatthours,2004,11
+2004-11-01,HYC,conventional hydroelectric,20937.04438,thousand megawatthours,2004,11
+2004-11-01,WND,wind,932.203,thousand megawatthours,2004,11
+2004-10-01,WND,wind,1028.87272,thousand megawatthours,2004,10
+2004-10-01,SUN,solar,33.52109,thousand megawatthours,2004,10
+2004-10-01,NUC,nuclear,62530.352,thousand megawatthours,2004,10
+2004-10-01,NG,natural gas,57228.81399,thousand megawatthours,2004,10
+2004-10-01,HYC,conventional hydroelectric,18862.7954,thousand megawatthours,2004,10
+2004-10-01,COL,"coal, excluding waste coal",156864.67602,thousand megawatthours,2004,10
+2004-10-01,ALL,all fuels,312450.22288,thousand megawatthours,2004,10
+2004-09-01,COL,"coal, excluding waste coal",163519.3455,thousand megawatthours,2004,9
+2004-09-01,WND,wind,1089.61523,thousand megawatthours,2004,9
+2004-09-01,SUN,solar,60.63169,thousand megawatthours,2004,9
+2004-09-01,ALL,all fuels,335622.19789,thousand megawatthours,2004,9
+2004-09-01,HYC,conventional hydroelectric,20525.26137,thousand megawatthours,2004,9
+2004-09-01,NUC,nuclear,65932.057,thousand megawatthours,2004,9
+2004-09-01,NG,natural gas,67853.99334,thousand megawatthours,2004,9
+2004-08-01,NG,natural gas,77820.68835,thousand megawatthours,2004,8
+2004-08-01,WND,wind,1050.71885,thousand megawatthours,2004,8
+2004-08-01,ALL,all fuels,368439.03706,thousand megawatthours,2004,8
+2004-08-01,HYC,conventional hydroelectric,21591.96742,thousand megawatthours,2004,8
+2004-08-01,COL,"coal, excluding waste coal",177455.75735,thousand megawatthours,2004,8
+2004-08-01,SUN,solar,72.846,thousand megawatthours,2004,8
+2004-08-01,NUC,nuclear,71068.483,thousand megawatthours,2004,8
+2004-07-01,ALL,all fuels,377331.69713,thousand megawatthours,2004,7
+2004-07-01,SUN,solar,82.10253,thousand megawatthours,2004,7
+2004-07-01,COL,"coal, excluding waste coal",180687.11679,thousand megawatthours,2004,7
+2004-07-01,WND,wind,1164.37009,thousand megawatthours,2004,7
+2004-07-01,NUC,nuclear,71975.04,thousand megawatthours,2004,7
+2004-07-01,NG,natural gas,79290.02224,thousand megawatthours,2004,7
+2004-07-01,HYC,conventional hydroelectric,23318.27953,thousand megawatthours,2004,7
+2004-06-01,SUN,solar,87.876,thousand megawatthours,2004,6
+2004-06-01,NUC,nuclear,67734.073,thousand megawatthours,2004,6
+2004-06-01,NG,natural gas,64685.66904,thousand megawatthours,2004,6
+2004-06-01,COL,"coal, excluding waste coal",166997.96922,thousand megawatthours,2004,6
+2004-06-01,HYC,conventional hydroelectric,25252.34503,thousand megawatthours,2004,6
+2004-06-01,ALL,all fuels,345085.07883,thousand megawatthours,2004,6
+2004-06-01,WND,wind,1397.20574,thousand megawatthours,2004,6
+2004-05-01,COL,"coal, excluding waste coal",156269.0932,thousand megawatthours,2004,5
+2004-05-01,ALL,all fuels,327380.26364,thousand megawatthours,2004,5
+2004-05-01,WND,wind,1701.65148,thousand megawatthours,2004,5
+2004-05-01,SUN,solar,81.77573,thousand megawatthours,2004,5
+2004-05-01,NUC,nuclear,64917.412,thousand megawatthours,2004,5
+2004-05-01,NG,natural gas,62021.80807,thousand megawatthours,2004,5
+2004-05-01,HYC,conventional hydroelectric,24019.71812,thousand megawatthours,2004,5
+2004-04-01,ALL,all fuels,290559.91417,thousand megawatthours,2004,4
+2004-04-01,WND,wind,1294.8568,thousand megawatthours,2004,4
+2004-04-01,SUN,solar,56.90189,thousand megawatthours,2004,4
+2004-04-01,COL,"coal, excluding waste coal",140692.24953,thousand megawatthours,2004,4
+2004-04-01,NUC,nuclear,58620.255,thousand megawatthours,2004,4
+2004-04-01,NG,natural gas,51821.98826,thousand megawatthours,2004,4
+2004-04-01,HYC,conventional hydroelectric,20887.97481,thousand megawatthours,2004,4
+2004-03-01,COL,"coal, excluding waste coal",153461.88994,thousand megawatthours,2004,3
+2004-03-01,WND,wind,1291.224,thousand megawatthours,2004,3
+2004-03-01,SUN,solar,52.92945,thousand megawatthours,2004,3
+2004-03-01,HYC,conventional hydroelectric,22914.28123,thousand megawatthours,2004,3
+2004-03-01,ALL,all fuels,308812.09552,thousand megawatthours,2004,3
+2004-03-01,NUC,nuclear,63285.116,thousand megawatthours,2004,3
+2004-03-01,NG,natural gas,49801.1869,thousand megawatthours,2004,3
+2004-02-01,ALL,all fuels,314279.90954,thousand megawatthours,2004,2
+2004-02-01,WND,wind,1021.56897,thousand megawatthours,2004,2
+2004-02-01,SUN,solar,10.86173,thousand megawatthours,2004,2
+2004-02-01,NUC,nuclear,64101.949,thousand megawatthours,2004,2
+2004-02-01,NG,natural gas,50319.87478,thousand megawatthours,2004,2
+2004-02-01,HYC,conventional hydroelectric,20913.61671,thousand megawatthours,2004,2
+2004-02-01,COL,"coal, excluding waste coal",160715.78432,thousand megawatthours,2004,2
+2004-01-01,ALL,all fuels,346545.62699,thousand megawatthours,2004,1
+2004-01-01,WND,wind,999.44521,thousand megawatthours,2004,1
+2004-01-01,SUN,solar,12.60957,thousand megawatthours,2004,1
+2004-01-01,NUC,nuclear,70806.16,thousand megawatthours,2004,1
+2004-01-01,NG,natural gas,48253.37213,thousand megawatthours,2004,1
+2004-01-01,COL,"coal, excluding waste coal",179791.49199,thousand megawatthours,2004,1
+2004-01-01,HYC,conventional hydroelectric,22983.30588,thousand megawatthours,2004,1
+2003-12-01,SUN,solar,4.251,thousand megawatthours,2003,12
+2003-12-01,NUC,nuclear,68611.699,thousand megawatthours,2003,12
+2003-12-01,NG,natural gas,44034.895,thousand megawatthours,2003,12
+2003-12-01,ALL,all fuels,331680.43,thousand megawatthours,2003,12
+2003-12-01,HYC,conventional hydroelectric,24044.33,thousand megawatthours,2003,12
+2003-12-01,COL,"coal, excluding waste coal",175472.382,thousand megawatthours,2003,12
+2003-12-01,WND,wind,1104.881,thousand megawatthours,2003,12
+2003-11-01,ALL,all fuels,297866.711,thousand megawatthours,2003,11
+2003-11-01,NUC,nuclear,59600.02,thousand megawatthours,2003,11
+2003-11-01,NG,natural gas,45327.919,thousand megawatthours,2003,11
+2003-11-01,HYC,conventional hydroelectric,19715.265,thousand megawatthours,2003,11
+2003-11-01,COL,"coal, excluding waste coal",157454.936,thousand megawatthours,2003,11
+2003-11-01,WND,wind,961.432,thousand megawatthours,2003,11
+2003-11-01,SUN,solar,14.031,thousand megawatthours,2003,11
+2003-10-01,ALL,all fuels,306740.933,thousand megawatthours,2003,10
+2003-10-01,WND,wind,897.161,thousand megawatthours,2003,10
+2003-10-01,SUN,solar,35.436,thousand megawatthours,2003,10
+2003-10-01,NUC,nuclear,60016.207,thousand megawatthours,2003,10
+2003-10-01,NG,natural gas,51824.169,thousand megawatthours,2003,10
+2003-10-01,COL,"coal, excluding waste coal",158566.149,thousand megawatthours,2003,10
+2003-10-01,HYC,conventional hydroelectric,18428.423,thousand megawatthours,2003,10
+2003-09-01,WND,wind,895.054,thousand megawatthours,2003,9
+2003-09-01,SUN,solar,55.857,thousand megawatthours,2003,9
+2003-09-01,NUC,nuclear,63583.645,thousand megawatthours,2003,9
+2003-09-01,COL,"coal, excluding waste coal",164186.745,thousand megawatthours,2003,9
+2003-09-01,ALL,all fuels,323135.534,thousand megawatthours,2003,9
+2003-09-01,NG,natural gas,59089.943,thousand megawatthours,2003,9
+2003-09-01,HYC,conventional hydroelectric,18480.455,thousand megawatthours,2003,9
+2003-08-01,SUN,solar,61.992,thousand megawatthours,2003,8
+2003-08-01,COL,"coal, excluding waste coal",184539.525,thousand megawatthours,2003,8
+2003-08-01,ALL,all fuels,381816.319,thousand megawatthours,2003,8
+2003-08-01,NUC,nuclear,69023.878,thousand megawatthours,2003,8
+2003-08-01,NG,natural gas,83249.694,thousand megawatthours,2003,8
+2003-08-01,HYC,conventional hydroelectric,22972.03,thousand megawatthours,2003,8
+2003-08-01,WND,wind,815.429,thousand megawatthours,2003,8
+2003-07-01,SUN,solar,62.407,thousand megawatthours,2003,7
+2003-07-01,NUC,nuclear,69652.754,thousand megawatthours,2003,7
+2003-07-01,NG,natural gas,76938.278,thousand megawatthours,2003,7
+2003-07-01,HYC,conventional hydroelectric,24843.095,thousand megawatthours,2003,7
+2003-07-01,COL,"coal, excluding waste coal",180986.307,thousand megawatthours,2003,7
+2003-07-01,ALL,all fuels,374396.05,thousand megawatthours,2003,7
+2003-07-01,WND,wind,953.396,thousand megawatthours,2003,7
+2003-06-01,COL,"coal, excluding waste coal",161493.451,thousand megawatthours,2003,6
+2003-06-01,WND,wind,1047.144,thousand megawatthours,2003,6
+2003-06-01,SUN,solar,90.682,thousand megawatthours,2003,6
+2003-06-01,NG,natural gas,54452.951,thousand megawatthours,2003,6
+2003-06-01,ALL,all fuels,328693.698,thousand megawatthours,2003,6
+2003-06-01,NUC,nuclear,64180.727,thousand megawatthours,2003,6
+2003-06-01,HYC,conventional hydroelectric,28586.3,thousand megawatthours,2003,6
+2003-05-01,ALL,all fuels,307544.887,thousand megawatthours,2003,5
+2003-05-01,WND,wind,1006.383,thousand megawatthours,2003,5
+2003-05-01,SUN,solar,67.962,thousand megawatthours,2003,5
+2003-05-01,NUC,nuclear,62201.96,thousand megawatthours,2003,5
+2003-05-01,NG,natural gas,49372.963,thousand megawatthours,2003,5
+2003-05-01,HYC,conventional hydroelectric,29395.256,thousand megawatthours,2003,5
+2003-05-01,COL,"coal, excluding waste coal",149711.72,thousand megawatthours,2003,5
+2003-04-01,ALL,all fuels,285755.699,thousand megawatthours,2003,4
+2003-04-01,HYC,conventional hydroelectric,24758.962,thousand megawatthours,2003,4
+2003-04-01,WND,wind,1092.766,thousand megawatthours,2003,4
+2003-04-01,SUN,solar,60.309,thousand megawatthours,2003,4
+2003-04-01,NUC,nuclear,56775.591,thousand megawatthours,2003,4
+2003-04-01,NG,natural gas,45195.383,thousand megawatthours,2003,4
+2003-04-01,COL,"coal, excluding waste coal",141305.196,thousand megawatthours,2003,4
+2003-03-01,HYC,conventional hydroelectric,24202.273,thousand megawatthours,2003,3
+2003-03-01,WND,wind,1036.104,thousand megawatthours,2003,3
+2003-03-01,ALL,all fuels,304317.265,thousand megawatthours,2003,3
+2003-03-01,COL,"coal, excluding waste coal",154264.316,thousand megawatthours,2003,3
+2003-03-01,SUN,solar,50.02709,thousand megawatthours,2003,3
+2003-03-01,NUC,nuclear,59933.261,thousand megawatthours,2003,3
+2003-03-01,NG,natural gas,46699.026,thousand megawatthours,2003,3
+2003-02-01,ALL,all fuels,299248.777,thousand megawatthours,2003,2
+2003-02-01,WND,wind,745.375,thousand megawatthours,2003,2
+2003-02-01,NUC,nuclear,60941.869,thousand megawatthours,2003,2
+2003-02-01,NG,natural gas,43546.573,thousand megawatthours,2003,2
+2003-02-01,SUN,solar,17.83027,thousand megawatthours,2003,2
+2003-02-01,HYC,conventional hydroelectric,19779.86,thousand megawatthours,2003,2
+2003-02-01,COL,"coal, excluding waste coal",156284.502,thousand megawatthours,2003,2
+2003-01-01,ALL,all fuels,341988.901,thousand megawatthours,2003,1
+2003-01-01,WND,wind,632.34,thousand megawatthours,2003,1
+2003-01-01,SUN,solar,13.21701,thousand megawatthours,2003,1
+2003-01-01,COL,"coal, excluding waste coal",180484.588,thousand megawatthours,2003,1
+2003-01-01,NUC,nuclear,69211.084,thousand megawatthours,2003,1
+2003-01-01,NG,natural gas,50175.746,thousand megawatthours,2003,1
+2003-01-01,HYC,conventional hydroelectric,20600.079,thousand megawatthours,2003,1
+2002-12-01,HYC,conventional hydroelectric,21668.54,thousand megawatthours,2002,12
+2002-12-01,SUN,solar,4.307,thousand megawatthours,2002,12
+2002-12-01,COL,"coal, excluding waste coal",171427.454,thousand megawatthours,2002,12
+2002-12-01,ALL,all fuels,324833.705,thousand megawatthours,2002,12
+2002-12-01,WND,wind,755.194,thousand megawatthours,2002,12
+2002-12-01,NUC,nuclear,68905.472,thousand megawatthours,2002,12
+2002-12-01,NG,natural gas,46100.393,thousand megawatthours,2002,12
+2002-11-01,WND,wind,655.946,thousand megawatthours,2002,11
+2002-11-01,SUN,solar,28.175,thousand megawatthours,2002,11
+2002-11-01,COL,"coal, excluding waste coal",155344.529,thousand megawatthours,2002,11
+2002-11-01,NUC,nuclear,61520.324,thousand megawatthours,2002,11
+2002-11-01,NG,natural gas,45160.876,thousand megawatthours,2002,11
+2002-11-01,HYC,conventional hydroelectric,19730.029,thousand megawatthours,2002,11
+2002-11-01,ALL,all fuels,296289.561,thousand megawatthours,2002,11
+2002-10-01,HYC,conventional hydroelectric,17171.334,thousand megawatthours,2002,10
+2002-10-01,WND,wind,734.355,thousand megawatthours,2002,10
+2002-10-01,SUN,solar,30.956,thousand megawatthours,2002,10
+2002-10-01,NUC,nuclear,60493.052,thousand megawatthours,2002,10
+2002-10-01,NG,natural gas,54200.82,thousand megawatthours,2002,10
+2002-10-01,COL,"coal, excluding waste coal",158380.387,thousand megawatthours,2002,10
+2002-10-01,ALL,all fuels,307059.46,thousand megawatthours,2002,10
+2002-09-01,ALL,all fuels,331279.434,thousand megawatthours,2002,9
+2002-09-01,COL,"coal, excluding waste coal",164653.224,thousand megawatthours,2002,9
+2002-09-01,WND,wind,735.828,thousand megawatthours,2002,9
+2002-09-01,NUC,nuclear,64480.79,thousand megawatthours,2002,9
+2002-09-01,NG,natural gas,68161.131,thousand megawatthours,2002,9
+2002-09-01,HYC,conventional hydroelectric,17086.782,thousand megawatthours,2002,9
+2002-09-01,SUN,solar,52.608,thousand megawatthours,2002,9
+2002-08-01,NG,natural gas,84476.867,thousand megawatthours,2002,8
+2002-08-01,HYC,conventional hydroelectric,21083.924,thousand megawatthours,2002,8
+2002-08-01,COL,"coal, excluding waste coal",179271.926,thousand megawatthours,2002,8
+2002-08-01,ALL,all fuels,374585.819,thousand megawatthours,2002,8
+2002-08-01,WND,wind,976.691,thousand megawatthours,2002,8
+2002-08-01,SUN,solar,74.925,thousand megawatthours,2002,8
+2002-08-01,NUC,nuclear,70777.688,thousand megawatthours,2002,8
+2002-07-01,COL,"coal, excluding waste coal",182450.606,thousand megawatthours,2002,7
+2002-07-01,WND,wind,890.455,thousand megawatthours,2002,7
+2002-07-01,SUN,solar,85.537,thousand megawatthours,2002,7
+2002-07-01,NG,natural gas,83917.269,thousand megawatthours,2002,7
+2002-07-01,ALL,all fuels,381542.107,thousand megawatthours,2002,7
+2002-07-01,NUC,nuclear,70420.827,thousand megawatthours,2002,7
+2002-07-01,HYC,conventional hydroelectric,25470.647,thousand megawatthours,2002,7
+2002-06-01,ALL,all fuels,341023.144,thousand megawatthours,2002,6
+2002-06-01,WND,wind,1126.315,thousand megawatthours,2002,6
+2002-06-01,SUN,solar,95.543,thousand megawatthours,2002,6
+2002-06-01,NUC,nuclear,66371.896,thousand megawatthours,2002,6
+2002-06-01,NG,natural gas,65631.018,thousand megawatthours,2002,6
+2002-06-01,HYC,conventional hydroelectric,28212.847,thousand megawatthours,2002,6
+2002-06-01,COL,"coal, excluding waste coal",164061.735,thousand megawatthours,2002,6
+2002-05-01,ALL,all fuels,307674.569,thousand megawatthours,2002,5
+2002-05-01,NUC,nuclear,63032.192,thousand megawatthours,2002,5
+2002-05-01,WND,wind,1077.641,thousand megawatthours,2002,5
+2002-05-01,SUN,solar,57.64,thousand megawatthours,2002,5
+2002-05-01,HYC,conventional hydroelectric,26662.695,thousand megawatthours,2002,5
+2002-05-01,NG,natural gas,50275.237,thousand megawatthours,2002,5
+2002-05-01,COL,"coal, excluding waste coal",150833.008,thousand megawatthours,2002,5
+2002-04-01,HYC,conventional hydroelectric,24246.605,thousand megawatthours,2002,4
+2002-04-01,NUC,nuclear,58437.062,thousand megawatthours,2002,4
+2002-04-01,NG,natural gas,49146.409,thousand megawatthours,2002,4
+2002-04-01,COL,"coal, excluding waste coal",141641.076,thousand megawatthours,2002,4
+2002-04-01,ALL,all fuels,289848.253,thousand megawatthours,2002,4
+2002-04-01,WND,wind,1024.417,thousand megawatthours,2002,4
+2002-04-01,SUN,solar,45.858,thousand megawatthours,2002,4
+2002-03-01,HYC,conventional hydroelectric,21008.813,thousand megawatthours,2002,3
+2002-03-01,ALL,all fuels,302549.011,thousand megawatthours,2002,3
+2002-03-01,COL,"coal, excluding waste coal",150782.461,thousand megawatthours,2002,3
+2002-03-01,WND,wind,852.102,thousand megawatthours,2002,3
+2002-03-01,SUN,solar,44.397,thousand megawatthours,2002,3
+2002-03-01,NUC,nuclear,63040.647,thousand megawatthours,2002,3
+2002-03-01,NG,natural gas,51214.464,thousand megawatthours,2002,3
+2002-02-01,ALL,all fuels,281825.712,thousand megawatthours,2002,2
+2002-02-01,WND,wind,713.932,thousand megawatthours,2002,2
+2002-02-01,SUN,solar,23.565,thousand megawatthours,2002,2
+2002-02-01,NUC,nuclear,61658.274,thousand megawatthours,2002,2
+2002-02-01,NG,natural gas,44308.431,thousand megawatthours,2002,2
+2002-02-01,HYC,conventional hydroelectric,20191.683,thousand megawatthours,2002,2
+2002-02-01,COL,"coal, excluding waste coal",142433.918,thousand megawatthours,2002,2
+2002-01-01,COL,"coal, excluding waste coal",163589.634,thousand megawatthours,2002,1
+2002-01-01,ALL,all fuels,319941.476,thousand megawatthours,2002,1
+2002-01-01,WND,wind,811.402,thousand megawatthours,2002,1
+2002-01-01,SUN,solar,11.32,thousand megawatthours,2002,1
+2002-01-01,NUC,nuclear,70925.863,thousand megawatthours,2002,1
+2002-01-01,NG,natural gas,48412.832,thousand megawatthours,2002,1
+2002-01-01,HYC,conventional hydroelectric,21794.932,thousand megawatthours,2002,1
+2001-12-01,ALL,all fuels,305496.328,thousand megawatthours,2001,12
+2001-12-01,WND,wind,615.657,thousand megawatthours,2001,12
+2001-12-01,SUN,solar,4.036,thousand megawatthours,2001,12
+2001-12-01,NUC,nuclear,67430.878,thousand megawatthours,2001,12
+2001-12-01,NG,natural gas,47540.861,thousand megawatthours,2001,12
+2001-12-01,HYC,conventional hydroelectric,19346.314,thousand megawatthours,2001,12
+2001-12-01,COL,"coal, excluding waste coal",156558.068,thousand megawatthours,2001,12
+2001-11-01,ALL,all fuels,278933.942,thousand megawatthours,2001,11
+2001-11-01,NUC,nuclear,62341.711,thousand megawatthours,2001,11
+2001-11-01,NG,natural gas,44490.622,thousand megawatthours,2001,11
+2001-11-01,COL,"coal, excluding waste coal",143282.037,thousand megawatthours,2001,11
+2001-11-01,WND,wind,470.448,thousand megawatthours,2001,11
+2001-11-01,SUN,solar,14.289,thousand megawatthours,2001,11
+2001-11-01,HYC,conventional hydroelectric,15412.929,thousand megawatthours,2001,11
+2001-10-01,HYC,conventional hydroelectric,15234.503,thousand megawatthours,2001,10
+2001-10-01,COL,"coal, excluding waste coal",148080.151,thousand megawatthours,2001,10
+2001-10-01,ALL,all fuels,294733.613,thousand megawatthours,2001,10
+2001-10-01,WND,wind,606.829,thousand megawatthours,2001,10
+2001-10-01,NUC,nuclear,60460.967,thousand megawatthours,2001,10
+2001-10-01,NG,natural gas,56376.441,thousand megawatthours,2001,10
+2001-10-01,SUN,solar,20.813,thousand megawatthours,2001,10
+2001-09-01,SUN,solar,64.803,thousand megawatthours,2001,9
+2001-09-01,HYC,conventional hydroelectric,15256.027,thousand megawatthours,2001,9
+2001-09-01,COL,"coal, excluding waste coal",153301.734,thousand megawatthours,2001,9
+2001-09-01,ALL,all fuels,306928.866,thousand megawatthours,2001,9
+2001-09-01,NUC,nuclear,63378.451,thousand megawatthours,2001,9
+2001-09-01,NG,natural gas,60181.14,thousand megawatthours,2001,9
+2001-09-01,WND,wind,490.229,thousand megawatthours,2001,9
+2001-08-01,SUN,solar,85.299,thousand megawatthours,2001,8
+2001-08-01,HYC,conventional hydroelectric,18913.768,thousand megawatthours,2001,8
+2001-08-01,COL,"coal, excluding waste coal",182282.841,thousand megawatthours,2001,8
+2001-08-01,ALL,all fuels,370532.828,thousand megawatthours,2001,8
+2001-08-01,NUC,nuclear,68389.496,thousand megawatthours,2001,8
+2001-08-01,NG,natural gas,78409.804,thousand megawatthours,2001,8
+2001-08-01,WND,wind,577.206,thousand megawatthours,2001,8
+2001-07-01,HYC,conventional hydroelectric,18079.119,thousand megawatthours,2001,7
+2001-07-01,COL,"coal, excluding waste coal",178195.611,thousand megawatthours,2001,7
+2001-07-01,ALL,all fuels,357613.7,thousand megawatthours,2001,7
+2001-07-01,WND,wind,634.992,thousand megawatthours,2001,7
+2001-07-01,SUN,solar,91.994,thousand megawatthours,2001,7
+2001-07-01,NUC,nuclear,69166.04,thousand megawatthours,2001,7
+2001-07-01,NG,natural gas,73030.142,thousand megawatthours,2001,7
+2001-06-01,NG,natural gas,57603.154,thousand megawatthours,2001,6
+2001-06-01,ALL,all fuels,327693.978,thousand megawatthours,2001,6
+2001-06-01,HYC,conventional hydroelectric,20727.63,thousand megawatthours,2001,6
+2001-06-01,COL,"coal, excluding waste coal",161824.583,thousand megawatthours,2001,6
+2001-06-01,WND,wind,669.634,thousand megawatthours,2001,6
+2001-06-01,SUN,solar,91.143,thousand megawatthours,2001,6
+2001-06-01,NUC,nuclear,68023.098,thousand megawatthours,2001,6
+2001-05-01,HYC,conventional hydroelectric,19175.635,thousand megawatthours,2001,5
+2001-05-01,WND,wind,635.029,thousand megawatthours,2001,5
+2001-05-01,SUN,solar,81.053,thousand megawatthours,2001,5
+2001-05-01,NUC,nuclear,61512.445,thousand megawatthours,2001,5
+2001-05-01,COL,"coal, excluding waste coal",150854.923,thousand megawatthours,2001,5
+2001-05-01,ALL,all fuels,300491.621,thousand megawatthours,2001,5
+2001-05-01,NG,natural gas,50934.205,thousand megawatthours,2001,5
+2001-04-01,COL,"coal, excluding waste coal",139974.82,thousand megawatthours,2001,4
+2001-04-01,SUN,solar,38.759,thousand megawatthours,2001,4
+2001-04-01,NUC,nuclear,56003.026,thousand megawatthours,2001,4
+2001-04-01,ALL,all fuels,278078.871,thousand megawatthours,2001,4
+2001-04-01,HYC,conventional hydroelectric,18012.994,thousand megawatthours,2001,4
+2001-04-01,NG,natural gas,45842.746,thousand megawatthours,2001,4
+2001-04-01,WND,wind,684.695,thousand megawatthours,2001,4
+2001-03-01,COL,"coal, excluding waste coal",154441.979,thousand megawatthours,2001,3
+2001-03-01,SUN,solar,31.498,thousand megawatthours,2001,3
+2001-03-01,NUC,nuclear,62140.712,thousand megawatthours,2001,3
+2001-03-01,NG,natural gas,44364.414,thousand megawatthours,2001,3
+2001-03-01,HYC,conventional hydroelectric,20477.189,thousand megawatthours,2001,3
+2001-03-01,ALL,all fuels,300706.544,thousand megawatthours,2001,3
+2001-03-01,WND,wind,532.12,thousand megawatthours,2001,3
+2001-02-01,ALL,all fuels,282940.198,thousand megawatthours,2001,2
+2001-02-01,WND,wind,431.242,thousand megawatthours,2001,2
+2001-02-01,SUN,solar,12.568,thousand megawatthours,2001,2
+2001-02-01,HYC,conventional hydroelectric,17472.889,thousand megawatthours,2001,2
+2001-02-01,COL,"coal, excluding waste coal",148966.69,thousand megawatthours,2001,2
+2001-02-01,NG,natural gas,37966.927,thousand megawatthours,2001,2
+2001-02-01,NUC,nuclear,61272.407,thousand megawatthours,2001,2
+2001-01-01,ALL,all fuels,332493.16,thousand megawatthours,2001,1
+2001-01-01,COL,"coal, excluding waste coal",176405.373,thousand megawatthours,2001,1
+2001-01-01,WND,wind,389.25,thousand megawatthours,2001,1
+2001-01-01,HYC,conventional hydroelectric,18852.048,thousand megawatthours,2001,1
+2001-01-01,NG,natural gas,42388.663,thousand megawatthours,2001,1
+2001-01-01,NUC,nuclear,68707.077,thousand megawatthours,2001,1
+2001-01-01,SUN,solar,6.5,thousand megawatthours,2001,1
