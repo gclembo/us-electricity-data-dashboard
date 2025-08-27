@@ -1,0 +1,6 @@
+requests==2.31.0
+pandas==2.2.1
+pathlib; python_version < '3.4'  # pathlib is built-in from Python 3.4+
+statsmodels==0.14.1
+matplotlib==3.8.4
+seaborn==0.13.2
