@@ -1,5 +1,5 @@
 This project creates a basic dashboard for US electricity generation and projections for future generation. 
-It takes data from the EIA API, models forecast using the SARIMAX model from statsmodels and plots using Seaborn and MatplotLib. 
+It takes data from the Energy Information Administration (EIA) API, models forecast using the SARIMAX model from statsmodels and plots using Seaborn and MatplotLib. 
 Finally the update flow is regulated using Apache Airflow with Docker. 
 
 To initialize the dashboard first you will need to put your EIA v2 API into plugins/etl/api_key_template.txt 
